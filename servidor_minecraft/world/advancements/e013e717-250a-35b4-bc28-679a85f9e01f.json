@@ -107,6 +107,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/pumpkin_seeds": {
+    "criteria": {
+      "has_pumpkin": "2024-12-08 21:05:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
       "has_the_recipe": "2024-10-26 13:32:31 +0000"
@@ -522,7 +528,8 @@
       "taiga": "2024-10-26 13:01:32 +0000",
       "taiga_hills": "2024-10-26 13:00:02 +0000",
       "extreme_hills": "2024-10-26 13:53:12 +0000",
-      "river": "2024-10-26 13:53:43 +0000"
+      "river": "2024-10-26 13:53:43 +0000",
+      "stone_beach": "2024-12-08 21:03:37 +0000"
     },
     "done": false
   },
@@ -718,6 +725,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/pumpkin_pie": {
+    "criteria": {
+      "has_pumpkin": "2024-12-08 21:05:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/pink_wool": {
     "criteria": {
       "has_white_wool": "2024-10-26 13:54:55 +0000"
@@ -741,6 +754,12 @@
   "minecraft:recipes/decorations/green_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2024-11-04 19:03:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lit_pumpkin": {
+    "criteria": {
+      "has_pumpkin": "2024-12-08 21:05:24 +0000"
     },
     "done": true
   },
