@@ -8036,3 +8036,119 @@ com.google.gson.JsonSyntaxException: Unknown recipe 'minecraft:trapdoor'
 [20:18:00] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [20:18:45] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [20:19:30] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:20:15] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:21:00] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:21:45] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:22:14] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Bastian_BOSTERO moved too quickly! 9.16764355611781,-0.02442408821369213,-4.1133416730882
+[20:22:30] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:23:03] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Bastian_BOSTERO lost connection: Disconnected
+[20:23:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Bastian_BOSTERO left the game
+[20:23:15] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:23:35] [Server thread/TRACE] [FML]: Handshake channel activating
+[20:23:35] [Server thread/DEBUG] [FML]: FMLHandshakeServerState: null->FMLHandshakeServerState$1:START
+[20:23:35] [Server thread/DEBUG] [FML]:   Next: HELLO
+[20:23:35] [Netty Epoll Server IO #2/DEBUG] [FML]: FMLHandshakeServerState: $ClientHello->FMLHandshakeServerState$2:HELLO
+[20:23:35] [Netty Epoll Server IO #2/INFO] [FML]: Client protocol version 2
+[20:23:35] [Netty Epoll Server IO #2/DEBUG] [FML]: FMLHandshakeServerState: $ModList:16 mods->FMLHandshakeServerState$2:HELLO
+[20:23:35] [Netty Epoll Server IO #2/INFO] [FML]: Client attempting to join with 16 mods : minecraft@1.12.2,usefulbackpacks@1.5.1.35,FML@8.0.99.99,forgelin@1.8.4,uteamcore@2.2.5.147,creativecoredummy@1.0.0,cfm@5.3.1,creativecore@1.10.0,jei@4.15.0.268,futuremc@0.2.6,forge@14.23.5.2860,playerrevive@1.0,mcp@9.42,lumberjack@1.4.1,journeymap@1.12.2-5.7.1,torcherino@7.6
+[20:23:35] [Netty Epoll Server IO #2/INFO] [journeymap]: CLIENT
+[20:23:35] [Netty Epoll Server IO #2/DEBUG] [FML]:   Next: WAITINGCACK
+[20:23:35] [Netty Epoll Server IO #2/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{2}->FMLHandshakeServerState$3:WAITINGCACK
+[20:23:35] [Netty Epoll Server IO #2/DEBUG] [FML]:   Next: COMPLETE
+[20:23:36] [Netty Epoll Server IO #2/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{3}->FMLHandshakeServerState$4:COMPLETE
+[20:23:36] [Netty Epoll Server IO #2/DEBUG] [FML]:   Next: DONE
+[20:23:36] [Netty Epoll Server IO #2/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{4}->FMLHandshakeServerState$5:DONE
+[20:23:36] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[20:23:36] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Bastian_BOSTERO[/100.73.109.128:3445] logged in with entity id 34446 at (563.1614349125273, 76.0, -293.07987464498257)
+[20:23:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Bastian_BOSTERO joined the game
+[20:23:36] [Netty Epoll Server IO #2/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{5}->FMLHandshakeServerState$5:DONE
+[20:24:00] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:24:45] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:24:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <THIAGAR7> x: 593, z: -273 y: 73
+[20:25:30] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:25:57] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Bastian_BOSTERO moved too quickly! 8.434032761724893,-0.2468000194787976,5.689120272229729
+[20:26:15] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:26:25] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Bastian_BOSTERO moved too quickly! 10.122745116333931,1.0013359791121417,-1.3303805602326406
+[20:26:29] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Bastian_BOSTERO was kicked for floating too long!
+[20:26:29] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Bastian_BOSTERO was kicked for floating too long!
+[20:26:29] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Bastian_BOSTERO was kicked for floating too long!
+[20:26:29] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Bastian_BOSTERO was kicked for floating too long!
+[20:26:29] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Bastian_BOSTERO was kicked for floating too long!
+[20:26:29] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Bastian_BOSTERO was kicked for floating too long!
+[20:26:29] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Bastian_BOSTERO was kicked for floating too long!
+[20:26:29] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Bastian_BOSTERO was kicked for floating too long!
+[20:26:29] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Bastian_BOSTERO was kicked for floating too long!
+[20:26:29] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Bastian_BOSTERO was kicked for floating too long!
+[20:26:29] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Bastian_BOSTERO was kicked for floating too long!
+[20:26:29] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Bastian_BOSTERO was kicked for floating too long!
+[20:26:29] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Bastian_BOSTERO was kicked for floating too long!
+[20:26:29] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Bastian_BOSTERO was kicked for floating too long!
+[20:26:29] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Bastian_BOSTERO was kicked for floating too long!
+[20:26:29] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Bastian_BOSTERO was kicked for floating too long!
+[20:26:29] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Bastian_BOSTERO was kicked for floating too long!
+[20:26:29] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Bastian_BOSTERO was kicked for floating too long!
+[20:26:30] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Bastian_BOSTERO lost connection: Flying is not enabled on this server
+[20:26:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Bastian_BOSTERO left the game
+[20:26:36] [Server thread/TRACE] [FML]: Handshake channel activating
+[20:26:36] [Server thread/DEBUG] [FML]: FMLHandshakeServerState: null->FMLHandshakeServerState$1:START
+[20:26:36] [Server thread/DEBUG] [FML]:   Next: HELLO
+[20:26:37] [Netty Epoll Server IO #3/DEBUG] [FML]: FMLHandshakeServerState: $ClientHello->FMLHandshakeServerState$2:HELLO
+[20:26:37] [Netty Epoll Server IO #3/INFO] [FML]: Client protocol version 2
+[20:26:37] [Netty Epoll Server IO #3/DEBUG] [FML]: FMLHandshakeServerState: $ModList:16 mods->FMLHandshakeServerState$2:HELLO
+[20:26:37] [Netty Epoll Server IO #3/INFO] [FML]: Client attempting to join with 16 mods : minecraft@1.12.2,usefulbackpacks@1.5.1.35,FML@8.0.99.99,forgelin@1.8.4,uteamcore@2.2.5.147,creativecoredummy@1.0.0,cfm@5.3.1,creativecore@1.10.0,jei@4.15.0.268,futuremc@0.2.6,forge@14.23.5.2860,playerrevive@1.0,mcp@9.42,lumberjack@1.4.1,journeymap@1.12.2-5.7.1,torcherino@7.6
+[20:26:37] [Netty Epoll Server IO #3/INFO] [journeymap]: CLIENT
+[20:26:37] [Netty Epoll Server IO #3/DEBUG] [FML]:   Next: WAITINGCACK
+[20:26:37] [Netty Epoll Server IO #3/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{2}->FMLHandshakeServerState$3:WAITINGCACK
+[20:26:37] [Netty Epoll Server IO #3/DEBUG] [FML]:   Next: COMPLETE
+[20:26:38] [Netty Epoll Server IO #3/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{3}->FMLHandshakeServerState$4:COMPLETE
+[20:26:38] [Netty Epoll Server IO #3/DEBUG] [FML]:   Next: DONE
+[20:26:38] [Netty Epoll Server IO #3/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{4}->FMLHandshakeServerState$5:DONE
+[20:26:38] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[20:26:38] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Bastian_BOSTERO[/100.73.109.128:3662] logged in with entity id 48414 at (868.3801465060743, 63.7531999805212, -241.5919636299633)
+[20:26:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Bastian_BOSTERO joined the game
+[20:26:38] [Netty Epoll Server IO #3/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{5}->FMLHandshakeServerState$5:DONE
+[20:27:00] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:27:17] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Bastian_BOSTERO lost connection: Disconnected
+[20:27:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Bastian_BOSTERO left the game
+[20:27:25] [Server thread/TRACE] [FML]: Handshake channel activating
+[20:27:25] [Server thread/DEBUG] [FML]: FMLHandshakeServerState: null->FMLHandshakeServerState$1:START
+[20:27:25] [Server thread/DEBUG] [FML]:   Next: HELLO
+[20:27:26] [Netty Epoll Server IO #0/DEBUG] [FML]: FMLHandshakeServerState: $ClientHello->FMLHandshakeServerState$2:HELLO
+[20:27:26] [Netty Epoll Server IO #0/INFO] [FML]: Client protocol version 2
+[20:27:26] [Netty Epoll Server IO #0/DEBUG] [FML]: FMLHandshakeServerState: $ModList:16 mods->FMLHandshakeServerState$2:HELLO
+[20:27:26] [Netty Epoll Server IO #0/INFO] [FML]: Client attempting to join with 16 mods : minecraft@1.12.2,usefulbackpacks@1.5.1.35,FML@8.0.99.99,forgelin@1.8.4,uteamcore@2.2.5.147,creativecoredummy@1.0.0,cfm@5.3.1,creativecore@1.10.0,jei@4.15.0.268,futuremc@0.2.6,forge@14.23.5.2860,playerrevive@1.0,mcp@9.42,lumberjack@1.4.1,journeymap@1.12.2-5.7.1,torcherino@7.6
+[20:27:26] [Netty Epoll Server IO #0/INFO] [journeymap]: CLIENT
+[20:27:26] [Netty Epoll Server IO #0/DEBUG] [FML]:   Next: WAITINGCACK
+[20:27:26] [Netty Epoll Server IO #0/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{2}->FMLHandshakeServerState$3:WAITINGCACK
+[20:27:26] [Netty Epoll Server IO #0/DEBUG] [FML]:   Next: COMPLETE
+[20:27:27] [Netty Epoll Server IO #0/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{3}->FMLHandshakeServerState$4:COMPLETE
+[20:27:27] [Netty Epoll Server IO #0/DEBUG] [FML]:   Next: DONE
+[20:27:27] [Netty Epoll Server IO #0/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{4}->FMLHandshakeServerState$5:DONE
+[20:27:27] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[20:27:27] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Bastian_BOSTERO[/100.73.109.128:3838] logged in with entity id 50727 at (889.5479502122568, 67.92159999847412, -244.4019073302536)
+[20:27:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Bastian_BOSTERO joined the game
+[20:27:27] [Netty Epoll Server IO #0/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{5}->FMLHandshakeServerState$5:DONE
+[20:27:45] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:28:30] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:29:15] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:30:00] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:30:45] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:31:30] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:32:15] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:33:00] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:33:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Kicked THIAGAR7 from the game
+[20:33:26] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: THIAGAR7 lost connection: Kicked by an operator.
+[20:33:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: THIAGAR7 left the game
+[20:33:45] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:33:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Kicked Bastian_BOSTERO from the game
+[20:33:49] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Bastian_BOSTERO lost connection: Kicked by an operator.
+[20:33:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Bastian_BOSTERO left the game
+[20:34:30] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:35:15] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:36:00] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:36:45] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:37:30] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:38:15] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:39:00] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:39:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Opped thiagar7
+[20:39:45] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
