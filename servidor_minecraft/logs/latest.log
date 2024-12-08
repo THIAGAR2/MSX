@@ -486,3 +486,20 @@ com.google.gson.JsonSyntaxException: Unknown recipe 'minecraft:trapdoor'
 [23:10:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Bastian_BOSTERO: Kicked THIAGAR7 from the game]
 [23:10:47] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: THIAGAR7 lost connection: Kicked by an operator.
 [23:10:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: THIAGAR7 left the game
+[23:11:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Bastian_BOSTERO is bleeding...
+[23:12:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Bastian_BOSTERO fell from a high place
+[23:18:20] [Netty Epoll Server IO #0/INFO] [FML]: Client protocol version 2
+[23:18:20] [Netty Epoll Server IO #0/INFO] [FML]: Client attempting to join with 16 mods : minecraft@1.12.2,usefulbackpacks@1.5.1.35,FML@8.0.99.99,forgelin@1.8.4,uteamcore@2.2.5.147,creativecoredummy@1.0.0,cfm@5.3.1,creativecore@1.10.0,jei@4.15.0.268,futuremc@0.2.6,forge@14.23.5.2860,playerrevive@1.0,mcp@9.42,lumberjack@1.4.1,journeymap@1.12.2-5.7.1,torcherino@7.6
+[23:18:20] [Netty Epoll Server IO #0/INFO] [journeymap]: CLIENT
+[23:18:21] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[23:18:21] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: THIAGAR7[/100.126.202.15:49897] logged in with entity id 242383 at (38.69999998807907, 19.200000047683716, 72.69999998807907)
+[23:18:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: THIAGAR7 joined the game
+[23:18:36] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: THIAGAR7 lost connection: Timed out
+[23:18:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: THIAGAR7 left the game
+[23:19:11] [Netty Epoll Server IO #1/INFO] [FML]: Client protocol version 2
+[23:19:11] [Netty Epoll Server IO #1/INFO] [FML]: Client attempting to join with 16 mods : minecraft@1.12.2,usefulbackpacks@1.5.1.35,FML@8.0.99.99,forgelin@1.8.4,uteamcore@2.2.5.147,creativecoredummy@1.0.0,cfm@5.3.1,creativecore@1.10.0,jei@4.15.0.268,futuremc@0.2.6,forge@14.23.5.2860,playerrevive@1.0,mcp@9.42,lumberjack@1.4.1,journeymap@1.12.2-5.7.1,torcherino@7.6
+[23:19:11] [Netty Epoll Server IO #1/INFO] [journeymap]: CLIENT
+[23:19:11] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[23:19:11] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: THIAGAR7[/100.126.202.15:49903] logged in with entity id 243494 at (38.69999998807907, 19.200000047683716, 72.69999998807907)
+[23:19:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: THIAGAR7 joined the game
+[23:19:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Bastian_BOSTERO: Teleported THIAGAR7 to Bastian_BOSTERO]
