@@ -332,3 +332,10 @@ com.google.gson.JsonSyntaxException: Unknown recipe 'minecraft:trapdoor'
 [21:34:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Bastian_BOSTERO has made the advancement [Isn't It Iron Pick]
 [21:37:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: THIAGAR7 has made the advancement [Diamonds!]
 [21:40:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: THIAGAR7 is bleeding...
+[21:40:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Teleported Bastian_BOSTERO to THIAGAR7
+[21:41:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: THIAGAR7 was shot by Skeleton
+[21:41:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [THIAGAR7: Teleported THIAGAR7 to Bastian_BOSTERO]
+[21:43:59] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Bastian_BOSTERO moved too quickly! 9.072399751723509,1.0,-4.709731716743448
+[21:44:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [THIAGAR7: Teleported Bastian_BOSTERO to THIAGAR7]
+[21:47:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [THIAGAR7: Teleported Bastian_BOSTERO to THIAGAR7]
+[21:48:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [THIAGAR7: Teleported Bastian_BOSTERO to THIAGAR7]

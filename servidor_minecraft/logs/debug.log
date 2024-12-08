@@ -8304,3 +8304,24 @@ com.google.gson.JsonSyntaxException: Unknown recipe 'minecraft:trapdoor'
 [21:39:00] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [21:39:45] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [21:40:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: THIAGAR7 is bleeding...
+[21:40:30] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:40:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Teleported Bastian_BOSTERO to THIAGAR7
+[21:41:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: THIAGAR7 was shot by Skeleton
+[21:41:15] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:41:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [THIAGAR7: Teleported THIAGAR7 to Bastian_BOSTERO]
+[21:42:00] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:42:45] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:43:30] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:43:59] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Bastian_BOSTERO moved too quickly! 9.072399751723509,1.0,-4.709731716743448
+[21:44:15] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:44:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [THIAGAR7: Teleported Bastian_BOSTERO to THIAGAR7]
+[21:45:00] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:45:45] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:46:30] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:47:15] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:47:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [THIAGAR7: Teleported Bastian_BOSTERO to THIAGAR7]
+[21:48:00] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:48:45] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:48:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [THIAGAR7: Teleported Bastian_BOSTERO to THIAGAR7]
+[21:49:30] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:50:15] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
