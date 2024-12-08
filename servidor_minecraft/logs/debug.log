@@ -8231,3 +8231,23 @@ com.google.gson.JsonSyntaxException: Unknown recipe 'minecraft:trapdoor'
 [21:08:15] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [21:09:00] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [21:09:45] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:10:30] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:10:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Bastian_BOSTERO is bleeding...
+[21:11:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [THIAGAR7: Teleported THIAGAR7 to Bastian_BOSTERO]
+[21:11:15] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:12:00] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:12:45] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:13:30] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:14:15] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:14:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [THIAGAR7: Teleported THIAGAR7 to Bastian_BOSTERO]
+[21:14:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Bastian_BOSTERO is bleeding...
+[21:15:00] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:15:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [THIAGAR7: Set the time to 1000]
+[21:15:45] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:16:30] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:17:15] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:18:00] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:18:25] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Bastian_BOSTERO moved too quickly! -8.530839478607618,-5.0,1.7435096335058802
+[21:18:45] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:19:30] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:20:15] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
