@@ -286,3 +286,4 @@ com.google.gson.JsonSyntaxException: Unknown recipe 'minecraft:trapdoor'
 [19:09:17] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
 [19:09:17] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: THIAGAR7[/100.126.202.15:50127] logged in with entity id 148500 at (149.5, 71.0999984741211, -1.5)
 [19:09:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: THIAGAR7 joined the game
+[19:19:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [THIAGAR7: Teleported Bastian_BOSTERO to THIAGAR7]
