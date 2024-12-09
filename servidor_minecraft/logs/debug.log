@@ -8267,3 +8267,55 @@ com.google.gson.JsonSyntaxException: Unknown recipe 'minecraft:trapdoor'
 [20:07:34] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [20:08:19] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [20:09:04] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:09:49] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:10:34] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:11:19] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:12:04] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:12:49] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:13:34] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:13:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [THIAGAR7: Teleported THIAGAR7 to Bastian_BOSTERO]
+[20:14:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [THIAGAR7: Teleported Bastian_BOSTERO to THIAGAR7]
+[20:14:19] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:15:04] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:15:49] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:16:34] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:17:19] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:18:04] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:18:26] [Netty Epoll Server IO #3/DEBUG] [FML]: Muted NetworkDispatcher exception
+io.netty.channel.unix.Errors$NativeIoException: syscall:read(..) failed: Connection reset by peer
+	at io.netty.channel.unix.FileDescriptor.readAddress(..)(Unknown Source) ~[FileDescriptor.class:?]
+[20:18:26] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Bastian_BOSTERO lost connection: Internal Exception: io.netty.channel.unix.Errors$NativeIoException: syscall:read(..) failed: Connection reset by peer
+[20:18:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Bastian_BOSTERO left the game
+[20:18:26] [Server thread/TRACE] [FML]: Handshake channel activating
+[20:18:26] [Server thread/DEBUG] [FML]: FMLHandshakeServerState: null->FMLHandshakeServerState$1:START
+[20:18:26] [Server thread/DEBUG] [FML]:   Next: HELLO
+[20:18:27] [Netty Epoll Server IO #3/DEBUG] [FML]: FMLHandshakeServerState: $ClientHello->FMLHandshakeServerState$2:HELLO
+[20:18:27] [Netty Epoll Server IO #3/INFO] [FML]: Client protocol version 2
+[20:18:27] [Netty Epoll Server IO #3/DEBUG] [FML]: FMLHandshakeServerState: $ModList:16 mods->FMLHandshakeServerState$2:HELLO
+[20:18:27] [Netty Epoll Server IO #3/INFO] [FML]: Client attempting to join with 16 mods : minecraft@1.12.2,usefulbackpacks@1.5.1.35,FML@8.0.99.99,forgelin@1.8.4,uteamcore@2.2.5.147,creativecoredummy@1.0.0,cfm@5.3.1,creativecore@1.10.0,jei@4.15.0.268,futuremc@0.2.6,forge@14.23.5.2860,playerrevive@1.0,mcp@9.42,lumberjack@1.4.1,journeymap@1.12.2-5.7.1,torcherino@7.6
+[20:18:27] [Netty Epoll Server IO #3/INFO] [journeymap]: CLIENT
+[20:18:27] [Netty Epoll Server IO #3/DEBUG] [FML]:   Next: WAITINGCACK
+[20:18:27] [Netty Epoll Server IO #3/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{2}->FMLHandshakeServerState$3:WAITINGCACK
+[20:18:27] [Netty Epoll Server IO #3/DEBUG] [FML]:   Next: COMPLETE
+[20:18:28] [Netty Epoll Server IO #3/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{3}->FMLHandshakeServerState$4:COMPLETE
+[20:18:28] [Netty Epoll Server IO #3/DEBUG] [FML]:   Next: DONE
+[20:18:28] [Netty Epoll Server IO #3/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{4}->FMLHandshakeServerState$5:DONE
+[20:18:28] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[20:18:28] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Bastian_BOSTERO[/100.73.109.128:1079] logged in with entity id 280901 at (62.67511580122226, 70.9375, -57.33347505680827)
+[20:18:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Bastian_BOSTERO joined the game
+[20:18:28] [Netty Epoll Server IO #3/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{5}->FMLHandshakeServerState$5:DONE
+[20:18:49] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:19:34] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:20:19] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:21:04] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:21:49] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:22:34] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:23:19] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:24:04] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:24:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [THIAGAR7: Teleported THIAGAR7 to Bastian_BOSTERO]
+[20:24:49] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:25:34] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:26:19] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:27:04] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:27:49] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:28:34] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
