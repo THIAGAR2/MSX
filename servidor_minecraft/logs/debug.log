@@ -9750,3 +9750,21 @@ com.google.gson.JsonSyntaxException: Unknown recipe 'minecraft:trapdoor'
 [04:41:15] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [04:42:00] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [04:42:45] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:43:30] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:44:15] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:45:00] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:45:45] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:46:30] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:47:15] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:48:00] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:48:45] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:49:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [THIAGAR7: Teleported THIAGAR7 to Bastian_BOSTERO]
+[04:49:30] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:50:15] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:50:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: THIAGAR7 has made the advancement [Pretty]
+[04:51:00] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:51:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [THIAGAR7: Kicked Bastian_BOSTERO from the game]
+[04:51:20] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Bastian_BOSTERO lost connection: Kicked by an operator.
+[04:51:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Bastian_BOSTERO left the game
+[04:51:45] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:52:30] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world

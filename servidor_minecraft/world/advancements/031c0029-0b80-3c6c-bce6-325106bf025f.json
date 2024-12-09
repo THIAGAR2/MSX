@@ -498,6 +498,12 @@
     },
     "done": true
   },
+  "cfm:gardening": {
+    "criteria": {
+      "get_outdoor_furniture": "2024-12-09 04:50:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/mine_stone": {
     "criteria": {
       "get_stone": "2024-10-26 14:17:36 +0000"
