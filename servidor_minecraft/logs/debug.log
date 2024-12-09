@@ -9500,3 +9500,37 @@ com.google.gson.JsonSyntaxException: Unknown recipe 'minecraft:trapdoor'
 [02:41:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [THIAGAR7: Set game difficulty to Peaceful]
 [02:41:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [THIAGAR7: Set game difficulty to Normal]
 [02:42:00] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:42:45] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:43:30] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:44:15] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:45:00] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:45:45] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:46:30] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:47:15] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:48:00] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:48:45] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:49:30] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:50:15] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:51:00] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:51:45] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:52:12] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: THIAGAR7 was kicked for floating too long!
+[02:52:12] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: THIAGAR7 lost connection: Flying is not enabled on this server
+[02:52:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: THIAGAR7 left the game
+[02:52:16] [Server thread/TRACE] [FML]: Handshake channel activating
+[02:52:16] [Server thread/DEBUG] [FML]: FMLHandshakeServerState: null->FMLHandshakeServerState$1:START
+[02:52:16] [Server thread/DEBUG] [FML]:   Next: HELLO
+[02:52:16] [Netty Epoll Server IO #0/DEBUG] [FML]: FMLHandshakeServerState: $ClientHello->FMLHandshakeServerState$2:HELLO
+[02:52:16] [Netty Epoll Server IO #0/INFO] [FML]: Client protocol version 2
+[02:52:16] [Netty Epoll Server IO #0/DEBUG] [FML]: FMLHandshakeServerState: $ModList:16 mods->FMLHandshakeServerState$2:HELLO
+[02:52:16] [Netty Epoll Server IO #0/INFO] [FML]: Client attempting to join with 16 mods : minecraft@1.12.2,usefulbackpacks@1.5.1.35,FML@8.0.99.99,forgelin@1.8.4,uteamcore@2.2.5.147,creativecoredummy@1.0.0,cfm@5.3.1,creativecore@1.10.0,jei@4.15.0.268,futuremc@0.2.6,forge@14.23.5.2860,playerrevive@1.0,mcp@9.42,lumberjack@1.4.1,journeymap@1.12.2-5.7.1,torcherino@7.6
+[02:52:16] [Netty Epoll Server IO #0/INFO] [journeymap]: CLIENT
+[02:52:16] [Netty Epoll Server IO #0/DEBUG] [FML]:   Next: WAITINGCACK
+[02:52:18] [Netty Epoll Server IO #0/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{2}->FMLHandshakeServerState$3:WAITINGCACK
+[02:52:18] [Netty Epoll Server IO #0/DEBUG] [FML]:   Next: COMPLETE
+[02:52:19] [Netty Epoll Server IO #0/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{3}->FMLHandshakeServerState$4:COMPLETE
+[02:52:19] [Netty Epoll Server IO #0/DEBUG] [FML]:   Next: DONE
+[02:52:19] [Netty Epoll Server IO #0/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{4}->FMLHandshakeServerState$5:DONE
+[02:52:19] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[02:52:19] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: THIAGAR7[/100.126.202.15:50227] logged in with entity id 632353 at (149.5, 71.0999984741211, -1.5)
+[02:52:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: THIAGAR7 joined the game
+[02:52:19] [Netty Epoll Server IO #0/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{5}->FMLHandshakeServerState$5:DONE
