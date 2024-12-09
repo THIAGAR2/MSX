@@ -55,3 +55,31 @@
 [00:49:06] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Bastian_BOSTERO[/100.73.109.128:2325] logged in with entity id 403623 at (161.30069260709115, 63.827117314324575, -50.22414528400059)
 [00:49:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Bastian_BOSTERO joined the game
 [00:49:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Set Bastian_BOSTERO's game mode to Creative Mode
+[00:52:35] [Netty Epoll Server IO #3/INFO] [FML]: Client protocol version 2
+[00:52:35] [Netty Epoll Server IO #3/INFO] [FML]: Client attempting to join with 16 mods : minecraft@1.12.2,usefulbackpacks@1.5.1.35,FML@8.0.99.99,forgelin@1.8.4,uteamcore@2.2.5.147,creativecoredummy@1.0.0,cfm@5.3.1,creativecore@1.10.0,jei@4.15.0.268,futuremc@0.2.6,forge@14.23.5.2860,playerrevive@1.0,mcp@9.42,lumberjack@1.4.1,journeymap@1.12.2-5.7.1,torcherino@7.6
+[00:52:35] [Netty Epoll Server IO #3/INFO] [journeymap]: CLIENT
+[00:52:36] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[00:52:36] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: THIAGAR7[/100.126.202.15:49898] logged in with entity id 415229 at (94.65194859683356, 70.0, -60.3000000119209)
+[00:52:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: THIAGAR7 joined the game
+[00:54:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [THIAGAR7: Set own game mode to Creative Mode]
+[00:55:30] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Bastian_BOSTERO moved too quickly! -7.505888793477496,-3.2547245693951226,-6.30456067938276
+[00:56:12] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Bastian_BOSTERO moved too quickly! 9.432901865808518,0.0,3.9959467023815876
+[00:56:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [THIAGAR7: Set own game mode to Survival Mode]
+[00:58:37] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Bastian_BOSTERO lost connection: Timed out
+[00:58:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Bastian_BOSTERO left the game
+[00:59:43] [Netty Epoll Server IO #0/INFO] [FML]: Client protocol version 2
+[00:59:43] [Netty Epoll Server IO #0/INFO] [FML]: Client attempting to join with 16 mods : minecraft@1.12.2,usefulbackpacks@1.5.1.35,FML@8.0.99.99,forgelin@1.8.4,uteamcore@2.2.5.147,creativecoredummy@1.0.0,cfm@5.3.1,creativecore@1.10.0,jei@4.15.0.268,futuremc@0.2.6,forge@14.23.5.2860,playerrevive@1.0,mcp@9.42,lumberjack@1.4.1,journeymap@1.12.2-5.7.1,torcherino@7.6
+[00:59:43] [Netty Epoll Server IO #0/INFO] [journeymap]: CLIENT
+[00:59:44] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[00:59:44] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Bastian_BOSTERO[/100.73.109.128:1277] logged in with entity id 427850 at (98.39371692896027, 71.0, -64.40036250109404)
+[00:59:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Bastian_BOSTERO joined the game
+[01:00:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [THIAGAR7: Set Bastian_BOSTERO's game mode to Survival Mode]
+[01:00:17] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Bastian_BOSTERO was kicked for floating too long!
+[01:00:17] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Bastian_BOSTERO lost connection: Flying is not enabled on this server
+[01:00:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Bastian_BOSTERO left the game
+[01:00:37] [Netty Epoll Server IO #1/INFO] [FML]: Client protocol version 2
+[01:00:37] [Netty Epoll Server IO #1/INFO] [FML]: Client attempting to join with 16 mods : minecraft@1.12.2,usefulbackpacks@1.5.1.35,FML@8.0.99.99,forgelin@1.8.4,uteamcore@2.2.5.147,creativecoredummy@1.0.0,cfm@5.3.1,creativecore@1.10.0,jei@4.15.0.268,futuremc@0.2.6,forge@14.23.5.2860,playerrevive@1.0,mcp@9.42,lumberjack@1.4.1,journeymap@1.12.2-5.7.1,torcherino@7.6
+[01:00:37] [Netty Epoll Server IO #1/INFO] [journeymap]: CLIENT
+[01:00:38] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[01:00:38] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Bastian_BOSTERO[/100.73.109.128:1322] logged in with entity id 430357 at (149.5, 71.0999984741211, -1.5)
+[01:00:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Bastian_BOSTERO joined the game
