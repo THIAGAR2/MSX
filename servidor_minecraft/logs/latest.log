@@ -18,3 +18,5 @@
 [00:06:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: THIAGAR7 joined the game
 [00:06:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: THIAGAR7 has made the advancement [Take Aim]
 [00:16:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [THIAGAR7: Teleported Bastian_BOSTERO to THIAGAR7]
+[00:39:33] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Bastian_BOSTERO moved too quickly! 1.0060651845218729,0.0,9.960482709716189
+[00:39:40] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Bastian_BOSTERO moved too quickly! 3.349496437001619,0.8322033533667508,9.54022664428392
