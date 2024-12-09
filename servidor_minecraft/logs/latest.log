@@ -83,3 +83,7 @@
 [01:00:38] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
 [01:00:38] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Bastian_BOSTERO[/100.73.109.128:1322] logged in with entity id 430357 at (149.5, 71.0999984741211, -1.5)
 [01:00:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Bastian_BOSTERO joined the game
+[01:07:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [THIAGAR7: Set own game mode to Creative Mode]
+[01:07:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [THIAGAR7: Set own game mode to Survival Mode]
+[01:09:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [THIAGAR7: Set own game mode to Creative Mode]
+[01:09:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [THIAGAR7: Set own game mode to Survival Mode]
