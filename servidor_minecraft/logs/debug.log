@@ -8370,3 +8370,40 @@ io.netty.channel.unix.Errors$NativeIoException: syscall:read(..) failed: Connect
 [20:47:24] [Netty Epoll Server IO #0/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{5}->FMLHandshakeServerState$5:DONE
 [20:48:04] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [20:48:49] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:49:34] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:50:19] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:51:04] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:51:49] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:52:34] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:53:19] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:54:04] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:54:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [THIAGAR7: Teleported THIAGAR7 to Bastian_BOSTERO]
+[20:54:49] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:54:54] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: THIAGAR7 lost connection: Timed out
+[20:54:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: THIAGAR7 left the game
+[20:54:57] [Server thread/TRACE] [FML]: Handshake channel activating
+[20:54:57] [Server thread/DEBUG] [FML]: FMLHandshakeServerState: null->FMLHandshakeServerState$1:START
+[20:54:57] [Server thread/DEBUG] [FML]:   Next: HELLO
+[20:54:57] [Netty Epoll Server IO #2/DEBUG] [FML]: FMLHandshakeServerState: $ClientHello->FMLHandshakeServerState$2:HELLO
+[20:54:57] [Netty Epoll Server IO #2/INFO] [FML]: Client protocol version 2
+[20:54:57] [Netty Epoll Server IO #2/DEBUG] [FML]: FMLHandshakeServerState: $ModList:16 mods->FMLHandshakeServerState$2:HELLO
+[20:54:57] [Netty Epoll Server IO #2/INFO] [FML]: Client attempting to join with 16 mods : minecraft@1.12.2,usefulbackpacks@1.5.1.35,FML@8.0.99.99,forgelin@1.8.4,uteamcore@2.2.5.147,creativecoredummy@1.0.0,cfm@5.3.1,creativecore@1.10.0,jei@4.15.0.268,futuremc@0.2.6,forge@14.23.5.2860,playerrevive@1.0,mcp@9.42,lumberjack@1.4.1,journeymap@1.12.2-5.7.1,torcherino@7.6
+[20:54:57] [Netty Epoll Server IO #2/INFO] [journeymap]: CLIENT
+[20:54:57] [Netty Epoll Server IO #2/DEBUG] [FML]:   Next: WAITINGCACK
+[20:54:57] [Netty Epoll Server IO #2/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{2}->FMLHandshakeServerState$3:WAITINGCACK
+[20:54:57] [Netty Epoll Server IO #2/DEBUG] [FML]:   Next: COMPLETE
+[20:55:01] [Netty Epoll Server IO #2/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{3}->FMLHandshakeServerState$4:COMPLETE
+[20:55:01] [Netty Epoll Server IO #2/DEBUG] [FML]:   Next: DONE
+[20:55:01] [Netty Epoll Server IO #2/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{4}->FMLHandshakeServerState$5:DONE
+[20:55:01] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[20:55:01] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: THIAGAR7[/100.126.202.15:50568] logged in with entity id 361418 at (-18.91170931543519, 47.0, -165.6159746308163)
+[20:55:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: THIAGAR7 joined the game
+[20:55:01] [Netty Epoll Server IO #2/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{5}->FMLHandshakeServerState$5:DONE
+[20:55:34] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:56:19] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:57:04] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:57:49] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:58:16] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Bastian_BOSTERO lost connection: Timed out
+[20:58:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Bastian_BOSTERO left the game
+[20:58:34] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:59:19] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
