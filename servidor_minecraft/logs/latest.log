@@ -309,3 +309,4 @@ com.google.gson.JsonSyntaxException: Unknown recipe 'minecraft:trapdoor'
 [20:18:28] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Bastian_BOSTERO[/100.73.109.128:1079] logged in with entity id 280901 at (62.67511580122226, 70.9375, -57.33347505680827)
 [20:18:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Bastian_BOSTERO joined the game
 [20:24:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [THIAGAR7: Teleported THIAGAR7 to Bastian_BOSTERO]
+[20:36:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [THIAGAR7: Teleported Bastian_BOSTERO to THIAGAR7]
