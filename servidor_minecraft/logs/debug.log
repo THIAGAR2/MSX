@@ -9534,3 +9534,17 @@ com.google.gson.JsonSyntaxException: Unknown recipe 'minecraft:trapdoor'
 [02:52:19] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: THIAGAR7[/100.126.202.15:50227] logged in with entity id 632353 at (149.5, 71.0999984741211, -1.5)
 [02:52:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: THIAGAR7 joined the game
 [02:52:19] [Netty Epoll Server IO #0/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{5}->FMLHandshakeServerState$5:DONE
+[02:52:30] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:53:15] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:54:00] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:54:45] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:55:30] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:56:15] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:57:00] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:57:45] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:58:30] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:59:15] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:00:00] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:00:45] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:01:30] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:02:15] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
