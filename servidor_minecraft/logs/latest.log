@@ -269,3 +269,7 @@
 [05:02:18] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
 [05:02:18] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: THIAGAR7[/100.126.202.15:50596] logged in with entity id 884275 at (149.5, 71.0999984741211, -1.5)
 [05:02:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: THIAGAR7 joined the game
+[05:13:07] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: THIAGAR7 was kicked for floating too long!
+[05:13:07] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: THIAGAR7 lost connection: Disconnected
+[05:13:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: THIAGAR7 left the game
+[05:13:07] [Server thread/WARN] [net.minecraft.network.NetworkManager]: handleDisconnection() called twice
