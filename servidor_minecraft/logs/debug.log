@@ -9610,3 +9610,34 @@ com.google.gson.JsonSyntaxException: Unknown recipe 'minecraft:trapdoor'
 [03:30:45] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [03:31:30] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [03:32:15] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:33:00] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:33:45] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:34:30] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:35:15] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:36:00] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:36:45] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:37:30] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:38:15] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:38:43] [Server thread/TRACE] [FML]: Handshake channel activating
+[03:38:43] [Server thread/DEBUG] [FML]: FMLHandshakeServerState: null->FMLHandshakeServerState$1:START
+[03:38:43] [Server thread/DEBUG] [FML]:   Next: HELLO
+[03:38:43] [Netty Epoll Server IO #2/DEBUG] [FML]: FMLHandshakeServerState: $ClientHello->FMLHandshakeServerState$2:HELLO
+[03:38:43] [Netty Epoll Server IO #2/INFO] [FML]: Client protocol version 2
+[03:38:43] [Netty Epoll Server IO #2/DEBUG] [FML]: FMLHandshakeServerState: $ModList:16 mods->FMLHandshakeServerState$2:HELLO
+[03:38:43] [Netty Epoll Server IO #2/INFO] [FML]: Client attempting to join with 16 mods : minecraft@1.12.2,usefulbackpacks@1.5.1.35,FML@8.0.99.99,forgelin@1.8.4,uteamcore@2.2.5.147,creativecoredummy@1.0.0,cfm@5.3.1,creativecore@1.10.0,jei@4.15.0.268,futuremc@0.2.6,forge@14.23.5.2860,playerrevive@1.0,mcp@9.42,lumberjack@1.4.1,journeymap@1.12.2-5.7.1,torcherino@7.6
+[03:38:43] [Netty Epoll Server IO #2/INFO] [journeymap]: CLIENT
+[03:38:43] [Netty Epoll Server IO #2/DEBUG] [FML]:   Next: WAITINGCACK
+[03:38:44] [Netty Epoll Server IO #2/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{2}->FMLHandshakeServerState$3:WAITINGCACK
+[03:38:44] [Netty Epoll Server IO #2/DEBUG] [FML]:   Next: COMPLETE
+[03:38:44] [Netty Epoll Server IO #2/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{3}->FMLHandshakeServerState$4:COMPLETE
+[03:38:44] [Netty Epoll Server IO #2/DEBUG] [FML]:   Next: DONE
+[03:38:44] [Netty Epoll Server IO #2/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{4}->FMLHandshakeServerState$5:DONE
+[03:38:44] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[03:38:44] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Bastian_BOSTERO[/100.73.109.128:26084] logged in with entity id 725927 at (85.72661382484101, 71.0, -45.89390319471301)
+[03:38:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Bastian_BOSTERO joined the game
+[03:38:45] [Netty Epoll Server IO #2/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{5}->FMLHandshakeServerState$5:DONE
+[03:39:00] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:39:45] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:40:30] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:41:15] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:42:00] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
