@@ -457,6 +457,7 @@
   },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
+      "bred_chicken": "2024-12-09 19:45:46 +0000",
       "bred_sheep": "2024-10-26 14:16:55 +0000",
       "bred_cow": "2024-12-09 18:59:33 +0000"
     },
@@ -758,6 +759,12 @@
   "minecraft:recipes/decorations/green_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2024-11-04 19:03:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2024-12-09 19:45:19 +0000"
     },
     "done": true
   },
