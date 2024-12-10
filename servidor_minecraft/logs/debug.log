@@ -7962,3 +7962,48 @@ com.google.gson.JsonSyntaxException: Unknown recipe 'minecraft:trapdoor'
 [17:02:50] [Server thread/TRACE] [FML]: Handshake channel activating
 [17:02:50] [Server thread/DEBUG] [FML]: FMLHandshakeServerState: null->FMLHandshakeServerState$1:START
 [17:02:50] [Server thread/DEBUG] [FML]:   Next: HELLO
+[17:02:51] [Netty Epoll Server IO #3/DEBUG] [FML]: FMLHandshakeServerState: $ClientHello->FMLHandshakeServerState$2:HELLO
+[17:02:51] [Netty Epoll Server IO #3/INFO] [FML]: Client protocol version 2
+[17:02:51] [Netty Epoll Server IO #3/DEBUG] [FML]: FMLHandshakeServerState: $ModList:16 mods->FMLHandshakeServerState$2:HELLO
+[17:02:51] [Netty Epoll Server IO #3/INFO] [FML]: Client attempting to join with 16 mods : minecraft@1.12.2,usefulbackpacks@1.5.1.35,FML@8.0.99.99,forgelin@1.8.4,uteamcore@2.2.5.147,creativecoredummy@1.0.0,cfm@5.3.1,creativecore@1.10.0,jei@4.15.0.268,futuremc@0.2.6,forge@14.23.5.2860,playerrevive@1.0,mcp@9.42,lumberjack@1.4.1,journeymap@1.12.2-5.7.1,torcherino@7.6
+[17:02:51] [Netty Epoll Server IO #3/INFO] [journeymap]: CLIENT
+[17:02:51] [Netty Epoll Server IO #3/DEBUG] [FML]:   Next: WAITINGCACK
+[17:02:51] [Netty Epoll Server IO #3/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{2}->FMLHandshakeServerState$3:WAITINGCACK
+[17:02:51] [Netty Epoll Server IO #3/DEBUG] [FML]:   Next: COMPLETE
+[17:02:52] [Netty Epoll Server IO #3/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{3}->FMLHandshakeServerState$4:COMPLETE
+[17:02:52] [Netty Epoll Server IO #3/DEBUG] [FML]:   Next: DONE
+[17:02:52] [Netty Epoll Server IO #3/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{4}->FMLHandshakeServerState$5:DONE
+[17:02:52] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[17:02:52] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Bastian_BOSTERO[/100.73.109.128:1434] logged in with entity id 16515 at (145.5, 71.10000000000001, -1.5)
+[17:02:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Bastian_BOSTERO joined the game
+[17:02:52] [Netty Epoll Server IO #3/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{5}->FMLHandshakeServerState$5:DONE
+[17:03:11] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[17:03:56] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[17:04:41] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[17:05:26] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[17:06:11] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[17:06:52] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[17:06:56] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[17:07:41] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[17:08:26] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[17:09:11] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[17:09:56] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[17:10:41] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[17:11:26] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[17:12:11] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[17:12:56] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[17:13:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [THIAGAR7: Teleported Bastian_BOSTERO to THIAGAR7]
+[17:13:41] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[17:14:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [THIAGAR7: Teleported Bastian_BOSTERO to THIAGAR7]
+[17:14:26] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[17:15:11] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[17:15:56] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[17:16:41] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[17:17:26] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[17:18:11] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[17:18:56] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[17:19:41] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[17:20:26] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[17:21:11] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[17:21:56] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[17:22:41] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world

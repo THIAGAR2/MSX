@@ -224,3 +224,12 @@ com.google.gson.JsonSyntaxException: Unknown recipe 'minecraft:trapdoor'
 [16:54:07] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
 [16:54:07] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: THIAGAR7[/100.126.202.15:49920] logged in with entity id 272 at (151.783784657082, 83.0, -142.99980972504798)
 [16:54:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: THIAGAR7 joined the game
+[17:02:51] [Netty Epoll Server IO #3/INFO] [FML]: Client protocol version 2
+[17:02:51] [Netty Epoll Server IO #3/INFO] [FML]: Client attempting to join with 16 mods : minecraft@1.12.2,usefulbackpacks@1.5.1.35,FML@8.0.99.99,forgelin@1.8.4,uteamcore@2.2.5.147,creativecoredummy@1.0.0,cfm@5.3.1,creativecore@1.10.0,jei@4.15.0.268,futuremc@0.2.6,forge@14.23.5.2860,playerrevive@1.0,mcp@9.42,lumberjack@1.4.1,journeymap@1.12.2-5.7.1,torcherino@7.6
+[17:02:51] [Netty Epoll Server IO #3/INFO] [journeymap]: CLIENT
+[17:02:52] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[17:02:52] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Bastian_BOSTERO[/100.73.109.128:1434] logged in with entity id 16515 at (145.5, 71.10000000000001, -1.5)
+[17:02:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Bastian_BOSTERO joined the game
+[17:06:52] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[17:13:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [THIAGAR7: Teleported Bastian_BOSTERO to THIAGAR7]
+[17:14:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [THIAGAR7: Teleported Bastian_BOSTERO to THIAGAR7]
