@@ -256,3 +256,6 @@ com.google.gson.JsonSyntaxException: Unknown recipe 'minecraft:trapdoor'
 [01:46:51] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Bastian_BOSTERO lost connection: Disconnected
 [01:46:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Bastian_BOSTERO left the game
 [01:46:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Bastian_BOSTERO tried to swim in lava
+[01:48:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <THIAGAR7> me fui a coer
+[01:48:52] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: THIAGAR7 lost connection: Disconnected
+[01:48:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: THIAGAR7 left the game
