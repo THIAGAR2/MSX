@@ -1,79 +1,79 @@
-[17:58:15] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
-[17:58:15] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
-[17:58:15] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLServerTweaker
-[17:58:15] [main/INFO] [FML]: Forge Mod Loader version 14.23.5.2860 for Minecraft 1.12.2 loading
-[17:58:15] [main/INFO] [FML]: Java is OpenJDK 64-Bit Server VM, version 1.8.0_432, running on Linux:amd64:6.5.0-1025-azure, installed at /usr/lib/jvm/java-8-openjdk-amd64/jre
-[17:58:15] [main/INFO] [FML]: Searching /workspaces/MSX/servidor_minecraft/./mods for mods
-[17:58:15] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in CreativeCore_v1.10.70_mc1.12.2.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
-[17:58:15] [main/WARN] [FML]: The coremod com.creativemd.creativecore.core.CreativePatchingLoader does not have a MCVersion annotation, it may cause issues with this version of Minecraft
-[17:58:15] [main/WARN] [FML]: The coremod CreativePatchingLoader (com.creativemd.creativecore.core.CreativePatchingLoader) is not signed!
-[17:58:15] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in Forgelin-1.8.4.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
-[17:58:15] [main/WARN] [FML]: The coremod net.shadowfacts.forgelin.preloader.ForgelinPlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
-[17:58:15] [main/WARN] [FML]: The coremod ForgelinPlugin (net.shadowfacts.forgelin.preloader.ForgelinPlugin) is not signed!
-[17:58:15] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in Future-MC-0.2.19.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
-[17:58:15] [main/WARN] [FML]: The coremod FutureMC (thedarkcolour.futuremc.asm.CoreLoader) is not signed!
-[17:58:15] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
-[17:58:15] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
-[17:58:15] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
-[17:58:15] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
-[17:58:15] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[17:58:18] [main/INFO] [FML]: Found valid fingerprint for Minecraft Forge. Certificate fingerprint e3c3d50c7c986df74c645c0ac54639741c90a557
-[17:58:18] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[17:58:18] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[17:58:18] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[17:58:18] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
-[17:58:19] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[17:58:19] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
-[17:58:19] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
-[17:58:19] [main/INFO] [LaunchWrapper]: Launching wrapped minecraft {net.minecraft.server.MinecraftServer}
-[17:58:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting minecraft server version 1.12.2
-[17:58:23] [Server thread/INFO] [FML]: MinecraftForge v14.23.5.2860 Initialized
-[17:58:23] [Server thread/INFO] [FML]: Starts to replace vanilla recipe ingredients with ore ingredients.
-[17:58:23] [Server thread/INFO] [FML]: Invalid recipe found with multiple oredict ingredients in the same ingredient...
-[17:58:23] [Server thread/INFO] [FML]: Replaced 1227 ore ingredients
-[17:58:24] [Server thread/INFO] [FML]: Searching /workspaces/MSX/servidor_minecraft/./mods for mods
-[17:58:25] [Server thread/INFO] [FML]: Forge Mod Loader has identified 16 mods to load
-[17:58:25] [Server thread/WARN] [FML]: Missing English translation for FML: assets/fml/lang/en_us.lang
-[17:58:25] [Server thread/WARN] [FML]: Missing English translation for forgelin: assets/forgelin/lang/en_us.lang
-[17:58:26] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, creativecoredummy, creativecore, forgelin, cfm, futuremc, jei, journeymap, lumberjack, playerrevive, torcherino, uteamcore, usefulbackpacks] at CLIENT
-[17:58:26] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, creativecoredummy, creativecore, forgelin, cfm, futuremc, jei, journeymap, lumberjack, playerrevive, torcherino, uteamcore, usefulbackpacks] at SERVER
-[17:58:28] [Server thread/INFO] [FML]: Processing ObjectHolder annotations
-[17:58:28] [Server thread/INFO] [FML]: Found 1170 ObjectHolder annotations
-[17:58:28] [Server thread/INFO] [FML]: Identifying ItemStackHolder annotations
-[17:58:28] [Server thread/INFO] [FML]: Found 0 ItemStackHolder annotations
-[17:58:28] [Server thread/INFO] [FML]: Configured a dormant chunk cache size of 0
-[17:58:28] [Forge Version Check/INFO] [forge.VersionCheck]: [usefulbackpacks] Starting version check at https://api.u-team.info/update/usefulbackpacks.json
-[17:58:29] [Forge Version Check/INFO] [forge.VersionCheck]: [usefulbackpacks] Found status: OUTDATED Target: 1.5.4.85
-[17:58:29] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Starting version check at http://files.minecraftforge.net/maven/net/minecraftforge/forge/promotions_slim.json
-[17:58:29] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Found status: AHEAD Target: null
-[17:58:29] [Forge Version Check/INFO] [forge.VersionCheck]: [uteamcore] Starting version check at https://api.u-team.info/update/uteamcore.json
-[17:58:29] [Forge Version Check/INFO] [forge.VersionCheck]: [uteamcore] Found status: OUTDATED Target: 2.2.5.305
-[17:58:29] [Server thread/INFO] [FML]: Applying holder lookups
-[17:58:29] [Server thread/INFO] [FML]: Holder lookups applied
-[17:58:30] [Server thread/INFO] [lumberjack]: New LumberAxe IRON (iron) From axe minecraft:iron_axe
-[17:58:30] [Server thread/INFO] [lumberjack]: New LumberAxe WOOD (wood) From axe minecraft:wooden_axe
-[17:58:30] [Server thread/INFO] [lumberjack]: New LumberAxe STONE (stone) From axe minecraft:stone_axe
-[17:58:30] [Server thread/INFO] [lumberjack]: New LumberAxe DIAMOND (diamond) From axe minecraft:diamond_axe
-[17:58:30] [Server thread/INFO] [lumberjack]: New LumberAxe GOLD (gold) From axe minecraft:golden_axe
-[17:58:30] [Server thread/INFO] [lumberjack]: New LumberAxe NETHERITE (netherite) From axe futuremc:netherite_axe
-[17:58:30] [Server thread/INFO] [FML]: Applying holder lookups
-[17:58:30] [Server thread/INFO] [FML]: Holder lookups applied
-[17:58:30] [Server thread/INFO] [FML]: Applying holder lookups
-[17:58:30] [Server thread/INFO] [FML]: Holder lookups applied
-[17:58:30] [Server thread/INFO] [FML]: Applying holder lookups
-[17:58:30] [Server thread/INFO] [FML]: Holder lookups applied
-[17:58:30] [Server thread/INFO] [FML]: Injecting itemstacks
-[17:58:30] [Server thread/INFO] [FML]: Itemstack injection complete
-[17:58:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Loading properties
-[17:58:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Default game type: SURVIVAL
-[17:58:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Generating keypair
-[17:58:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting Minecraft server on *:25565
-[17:58:30] [Server thread/INFO] [net.minecraft.network.NetworkSystem]: Using epoll channel type
-[17:58:30] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[17:58:30] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: The server will make no attempt to authenticate usernames. Beware.
-[17:58:30] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[17:58:30] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: To change this, set "online-mode" to "true" in the server.properties file.
-[17:58:30] [Server thread/ERROR] [FML]: Parsing error loading recipe cfm:cabinet_stone
+[01:07:57] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[01:07:57] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[01:07:57] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[01:07:57] [main/INFO] [FML]: Forge Mod Loader version 14.23.5.2860 for Minecraft 1.12.2 loading
+[01:07:57] [main/INFO] [FML]: Java is OpenJDK 64-Bit Server VM, version 1.8.0_432, running on Linux:amd64:6.5.0-1025-azure, installed at /usr/lib/jvm/java-8-openjdk-amd64/jre
+[01:07:58] [main/INFO] [FML]: Searching /workspaces/MSX/servidor_minecraft/./mods for mods
+[01:07:58] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in CreativeCore_v1.10.70_mc1.12.2.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[01:07:58] [main/WARN] [FML]: The coremod com.creativemd.creativecore.core.CreativePatchingLoader does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[01:07:58] [main/WARN] [FML]: The coremod CreativePatchingLoader (com.creativemd.creativecore.core.CreativePatchingLoader) is not signed!
+[01:07:58] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in Forgelin-1.8.4.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[01:07:58] [main/WARN] [FML]: The coremod net.shadowfacts.forgelin.preloader.ForgelinPlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[01:07:58] [main/WARN] [FML]: The coremod ForgelinPlugin (net.shadowfacts.forgelin.preloader.ForgelinPlugin) is not signed!
+[01:07:58] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in Future-MC-0.2.19.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[01:07:58] [main/WARN] [FML]: The coremod FutureMC (thedarkcolour.futuremc.asm.CoreLoader) is not signed!
+[01:07:58] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[01:07:58] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[01:07:58] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[01:07:58] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[01:07:58] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[01:08:01] [main/INFO] [FML]: Found valid fingerprint for Minecraft Forge. Certificate fingerprint e3c3d50c7c986df74c645c0ac54639741c90a557
+[01:08:01] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[01:08:01] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[01:08:01] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[01:08:01] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[01:08:02] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[01:08:02] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
+[01:08:02] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
+[01:08:03] [main/INFO] [LaunchWrapper]: Launching wrapped minecraft {net.minecraft.server.MinecraftServer}
+[01:08:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting minecraft server version 1.12.2
+[01:08:10] [Server thread/INFO] [FML]: MinecraftForge v14.23.5.2860 Initialized
+[01:08:10] [Server thread/INFO] [FML]: Starts to replace vanilla recipe ingredients with ore ingredients.
+[01:08:10] [Server thread/INFO] [FML]: Invalid recipe found with multiple oredict ingredients in the same ingredient...
+[01:08:11] [Server thread/INFO] [FML]: Replaced 1227 ore ingredients
+[01:08:12] [Server thread/INFO] [FML]: Searching /workspaces/MSX/servidor_minecraft/./mods for mods
+[01:08:14] [Server thread/INFO] [FML]: Forge Mod Loader has identified 16 mods to load
+[01:08:14] [Server thread/WARN] [FML]: Missing English translation for FML: assets/fml/lang/en_us.lang
+[01:08:14] [Server thread/WARN] [FML]: Missing English translation for forgelin: assets/forgelin/lang/en_us.lang
+[01:08:15] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, creativecoredummy, creativecore, forgelin, cfm, futuremc, jei, journeymap, lumberjack, playerrevive, torcherino, uteamcore, usefulbackpacks] at CLIENT
+[01:08:15] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, creativecoredummy, creativecore, forgelin, cfm, futuremc, jei, journeymap, lumberjack, playerrevive, torcherino, uteamcore, usefulbackpacks] at SERVER
+[01:08:17] [Server thread/INFO] [FML]: Processing ObjectHolder annotations
+[01:08:17] [Server thread/INFO] [FML]: Found 1170 ObjectHolder annotations
+[01:08:17] [Server thread/INFO] [FML]: Identifying ItemStackHolder annotations
+[01:08:17] [Server thread/INFO] [FML]: Found 0 ItemStackHolder annotations
+[01:08:17] [Server thread/INFO] [FML]: Configured a dormant chunk cache size of 0
+[01:08:17] [Forge Version Check/INFO] [forge.VersionCheck]: [uteamcore] Starting version check at https://api.u-team.info/update/uteamcore.json
+[01:08:18] [Forge Version Check/INFO] [forge.VersionCheck]: [uteamcore] Found status: OUTDATED Target: 2.2.5.305
+[01:08:18] [Forge Version Check/INFO] [forge.VersionCheck]: [usefulbackpacks] Starting version check at https://api.u-team.info/update/usefulbackpacks.json
+[01:08:18] [Forge Version Check/INFO] [forge.VersionCheck]: [usefulbackpacks] Found status: OUTDATED Target: 1.5.4.85
+[01:08:18] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Starting version check at http://files.minecraftforge.net/maven/net/minecraftforge/forge/promotions_slim.json
+[01:08:18] [Server thread/INFO] [FML]: Applying holder lookups
+[01:08:18] [Server thread/INFO] [FML]: Holder lookups applied
+[01:08:18] [Server thread/INFO] [lumberjack]: New LumberAxe IRON (iron) From axe minecraft:iron_axe
+[01:08:18] [Server thread/INFO] [lumberjack]: New LumberAxe WOOD (wood) From axe minecraft:wooden_axe
+[01:08:18] [Server thread/INFO] [lumberjack]: New LumberAxe STONE (stone) From axe minecraft:stone_axe
+[01:08:18] [Server thread/INFO] [lumberjack]: New LumberAxe DIAMOND (diamond) From axe minecraft:diamond_axe
+[01:08:18] [Server thread/INFO] [lumberjack]: New LumberAxe GOLD (gold) From axe minecraft:golden_axe
+[01:08:18] [Server thread/INFO] [lumberjack]: New LumberAxe NETHERITE (netherite) From axe futuremc:netherite_axe
+[01:08:18] [Server thread/INFO] [FML]: Applying holder lookups
+[01:08:18] [Server thread/INFO] [FML]: Holder lookups applied
+[01:08:18] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Found status: AHEAD Target: null
+[01:08:18] [Server thread/INFO] [FML]: Applying holder lookups
+[01:08:18] [Server thread/INFO] [FML]: Holder lookups applied
+[01:08:18] [Server thread/INFO] [FML]: Applying holder lookups
+[01:08:18] [Server thread/INFO] [FML]: Holder lookups applied
+[01:08:18] [Server thread/INFO] [FML]: Injecting itemstacks
+[01:08:18] [Server thread/INFO] [FML]: Itemstack injection complete
+[01:08:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Loading properties
+[01:08:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Default game type: SURVIVAL
+[01:08:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Generating keypair
+[01:08:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting Minecraft server on *:25565
+[01:08:19] [Server thread/INFO] [net.minecraft.network.NetworkSystem]: Using epoll channel type
+[01:08:19] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[01:08:19] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: The server will make no attempt to authenticate usernames. Beware.
+[01:08:19] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[01:08:19] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: To change this, set "online-mode" to "true" in the server.properties file.
+[01:08:19] [Server thread/ERROR] [FML]: Parsing error loading recipe cfm:cabinet_stone
 com.google.gson.JsonSyntaxException: Unknown item 'cfm:cabinet_stone'
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStack(CraftingHelper.java:214) ~[CraftingHelper.class:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.lambda$init$14(CraftingHelper.java:523) ~[CraftingHelper.class:?]
@@ -89,7 +89,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'cfm:cabinet_stone'
 	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:219) [nz.class:?]
 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
 	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_432]
-[17:58:30] [Server thread/ERROR] [FML]: Parsing error loading recipe cfm:cabinet_granite
+[01:08:19] [Server thread/ERROR] [FML]: Parsing error loading recipe cfm:cabinet_granite
 com.google.gson.JsonSyntaxException: Unknown item 'cfm:cabinet_granite'
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStack(CraftingHelper.java:214) ~[CraftingHelper.class:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.lambda$init$14(CraftingHelper.java:523) ~[CraftingHelper.class:?]
@@ -105,7 +105,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'cfm:cabinet_granite'
 	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:219) [nz.class:?]
 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
 	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_432]
-[17:58:30] [Server thread/ERROR] [FML]: Parsing error loading recipe cfm:cabinet_diorite
+[01:08:19] [Server thread/ERROR] [FML]: Parsing error loading recipe cfm:cabinet_diorite
 com.google.gson.JsonSyntaxException: Unknown item 'cfm:cabinet_diorite'
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStack(CraftingHelper.java:214) ~[CraftingHelper.class:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.lambda$init$14(CraftingHelper.java:523) ~[CraftingHelper.class:?]
@@ -121,7 +121,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'cfm:cabinet_diorite'
 	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:219) [nz.class:?]
 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
 	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_432]
-[17:58:30] [Server thread/ERROR] [FML]: Parsing error loading recipe cfm:cabinet_andesite
+[01:08:19] [Server thread/ERROR] [FML]: Parsing error loading recipe cfm:cabinet_andesite
 com.google.gson.JsonSyntaxException: Unknown item 'cfm:cabinet_andesite'
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStack(CraftingHelper.java:214) ~[CraftingHelper.class:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.lambda$init$14(CraftingHelper.java:523) ~[CraftingHelper.class:?]
@@ -137,54 +137,55 @@ com.google.gson.JsonSyntaxException: Unknown item 'cfm:cabinet_andesite'
 	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:219) [nz.class:?]
 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
 	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_432]
-[17:58:30] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `nether_brick_fence`, expected `futuremc`. This could be a intended override, but in most cases indicates a broken mod.
-[17:58:30] [Server thread/INFO] [FML]: Applying holder lookups
-[17:58:30] [Server thread/INFO] [FML]: Holder lookups applied
-[17:58:30] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmoven`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
-[17:58:30] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmfridge`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
-[17:58:30] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmcabinet`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
-[17:58:30] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmfreezer`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
-[17:58:30] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmbedsidecabinet`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
-[17:58:30] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmmailbox`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
-[17:58:30] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmcomputer`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
-[17:58:30] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmprinter`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
-[17:58:30] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmtv`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
-[17:58:30] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmstereo`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
-[17:58:30] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmpresent`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
-[17:58:30] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmbin`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
-[17:58:30] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmwallcabinet`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
-[17:58:30] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmbath`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
-[17:58:30] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmshowerhead`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
-[17:58:30] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmplate`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
-[17:58:30] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmcouch`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
-[17:58:30] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmtoaster`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
-[17:58:30] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmchoppingboard`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
-[17:58:30] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmblender`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
-[17:58:30] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmmicrowave`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
-[17:58:30] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmwashingmachine`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
-[17:58:30] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmdishwasher`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
-[17:58:30] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmcabinetkitchen`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
-[17:58:30] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmcup`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
-[17:58:30] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmcookiejar`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
-[17:58:30] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmtree`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
-[17:58:30] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmmirror`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
-[17:58:30] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmgrill`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
-[17:58:30] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmeski`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
-[17:58:30] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmdoormat`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
-[17:58:30] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmcrate`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
-[17:58:30] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmlightswitch`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
-[17:58:30] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmceilingfan`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
-[17:58:30] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmdeskcabinet`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
-[17:58:30] [Server thread/INFO] [torcherino]: class com.sci.torcherino.blocks.tiles.TileTorcherino
-[17:58:30] [Server thread/INFO] [FML]: Injecting itemstacks
-[17:58:30] [Server thread/INFO] [FML]: Itemstack injection complete
-[17:58:31] [Server thread/INFO] [FML]: Forge Mod Loader has successfully loaded 16 mods
-[17:58:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Preparing level "world"
-[17:58:31] [Server thread/INFO] [FML]: Injecting existing registry data into this server instance
-[17:58:31] [Server thread/INFO] [FML]: Applying holder lookups
-[17:58:31] [Server thread/INFO] [FML]: Holder lookups applied
-[17:58:31] [Server thread/INFO] [FML]: Loading dimension 0 (world) (net.minecraft.server.dedicated.DedicatedServer@d07e412)
-[17:58:32] [Server thread/ERROR] [net.minecraft.advancements.AdvancementManager]: Parsing error loading built-in advancement minecraft:recipes/redstone/trapdoor
+[01:08:19] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `nether_brick_fence`, expected `futuremc`. This could be a intended override, but in most cases indicates a broken mod.
+[01:08:19] [Server thread/INFO] [FML]: Applying holder lookups
+[01:08:19] [Server thread/INFO] [FML]: Holder lookups applied
+[01:08:19] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmoven`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[01:08:19] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmfridge`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[01:08:19] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmcabinet`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[01:08:19] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmfreezer`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[01:08:19] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmbedsidecabinet`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[01:08:19] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmmailbox`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[01:08:19] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmcomputer`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[01:08:19] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmprinter`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[01:08:19] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmtv`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[01:08:19] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmstereo`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[01:08:19] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmpresent`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[01:08:19] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmbin`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[01:08:19] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmwallcabinet`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[01:08:19] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmbath`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[01:08:19] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmshowerhead`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[01:08:19] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmplate`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[01:08:19] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmcouch`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[01:08:19] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmtoaster`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[01:08:19] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmchoppingboard`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[01:08:19] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmblender`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[01:08:19] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmmicrowave`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[01:08:19] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmwashingmachine`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[01:08:19] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmdishwasher`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[01:08:19] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmcabinetkitchen`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[01:08:19] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmcup`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[01:08:19] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmcookiejar`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[01:08:19] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmtree`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[01:08:19] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmmirror`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[01:08:19] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmgrill`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[01:08:19] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmeski`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[01:08:19] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmdoormat`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[01:08:19] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmcrate`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[01:08:19] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmlightswitch`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[01:08:19] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmceilingfan`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[01:08:19] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmdeskcabinet`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[01:08:19] [Server thread/INFO] [torcherino]: class com.sci.torcherino.blocks.tiles.TileTorcherino
+[01:08:19] [Server thread/INFO] [FML]: Injecting itemstacks
+[01:08:19] [Server thread/INFO] [FML]: Itemstack injection complete
+[01:08:19] [Server thread/INFO] [FML]: Forge Mod Loader has successfully loaded 16 mods
+[01:08:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Preparing level "world"
+[01:08:19] [Server thread/INFO] [FML]: Injecting existing registry data into this server instance
+[01:08:20] [Server thread/INFO] [FML]: Applying holder lookups
+[01:08:20] [Server thread/INFO] [FML]: Holder lookups applied
+[01:08:20] [Server thread/INFO] [FML]: Loading dimension 0 (world) (net.minecraft.server.dedicated.DedicatedServer@438ae5f1)
+[01:08:20] [Netty Epoll Server IO #1/INFO] [FML]: Disconnecting Player: Server is still starting! Please wait before reconnecting.
+[01:08:20] [Server thread/ERROR] [net.minecraft.advancements.AdvancementManager]: Parsing error loading built-in advancement minecraft:recipes/redstone/trapdoor
 com.google.gson.JsonSyntaxException: Unknown recipe 'minecraft:trapdoor'
 	at net.minecraft.advancements.AdvancementRewards$Deserializer.deserialize(AdvancementRewards.java:171) ~[l$a.class:?]
 	at net.minecraft.advancements.AdvancementRewards$Deserializer.deserialize(AdvancementRewards.java:147) ~[l$a.class:?]
@@ -208,152 +209,44 @@ com.google.gson.JsonSyntaxException: Unknown recipe 'minecraft:trapdoor'
 	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:270) [nz.class:?]
 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
 	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_432]
-[17:58:32] [Server thread/INFO] [net.minecraft.advancements.AdvancementList]: Loaded 512 advancements
-[17:58:32] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@d07e412)
-[17:58:32] [Server thread/INFO] [FML]: Loading dimension 1 (world) (net.minecraft.server.dedicated.DedicatedServer@d07e412)
-[17:58:32] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing start region for level 0
-[17:58:33] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 8%
-[17:58:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Done (3.207s)! For help, type "help" or "?"
-[17:58:34] [Server thread/INFO] [FML]: Unloading dimension -1
-[17:58:34] [Server thread/INFO] [FML]: Unloading dimension 1
-[17:59:18] [Netty Epoll Server IO #1/INFO] [FML]: Client protocol version 2
-[17:59:18] [Netty Epoll Server IO #1/INFO] [FML]: Client attempting to join with 16 mods : minecraft@1.12.2,usefulbackpacks@1.5.1.35,FML@8.0.99.99,forgelin@1.8.4,uteamcore@2.2.5.147,creativecoredummy@1.0.0,cfm@5.3.1,creativecore@1.10.0,jei@4.15.0.268,futuremc@0.2.6,forge@14.23.5.2860,playerrevive@1.0,mcp@9.42,lumberjack@1.4.1,journeymap@1.12.2-5.7.1,torcherino@7.6
-[17:59:18] [Netty Epoll Server IO #1/INFO] [journeymap]: CLIENT
-[17:59:19] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
-[17:59:19] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: THIAGAR7[/100.126.202.15:49932] logged in with entity id 269 at (132.42475893987702, 63.0, -26.826952079021503)
-[17:59:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: THIAGAR7 joined the game
-[18:00:06] [Netty Epoll Server IO #2/INFO] [FML]: Client protocol version 2
-[18:00:06] [Netty Epoll Server IO #2/INFO] [FML]: Client attempting to join with 16 mods : minecraft@1.12.2,usefulbackpacks@1.5.1.35,FML@8.0.99.99,forgelin@1.8.4,uteamcore@2.2.5.147,creativecoredummy@1.0.0,cfm@5.3.1,creativecore@1.10.0,jei@4.15.0.268,futuremc@0.2.6,forge@14.23.5.2860,playerrevive@1.0,mcp@9.42,lumberjack@1.4.1,journeymap@1.12.2-5.7.1,torcherino@7.6
-[18:00:06] [Netty Epoll Server IO #2/INFO] [journeymap]: CLIENT
-[18:00:28] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
-[18:00:28] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Bastian_BOSTERO[/100.73.109.128:3956] logged in with entity id 1096 at (132.11508748395934, 63.0, -29.09192392255396)
-[18:00:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Bastian_BOSTERO joined the game
-[18:04:24] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Bastian_BOSTERO was kicked for floating too long!
-[18:04:24] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Bastian_BOSTERO lost connection: Flying is not enabled on this server
-[18:04:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Bastian_BOSTERO left the game
-[18:04:33] [Netty Epoll Server IO #1/INFO] [FML]: Client protocol version 2
-[18:04:33] [Netty Epoll Server IO #1/INFO] [FML]: Client attempting to join with 16 mods : minecraft@1.12.2,usefulbackpacks@1.5.1.35,FML@8.0.99.99,forgelin@1.8.4,uteamcore@2.2.5.147,creativecoredummy@1.0.0,cfm@5.3.1,creativecore@1.10.0,jei@4.15.0.268,futuremc@0.2.6,forge@14.23.5.2860,playerrevive@1.0,mcp@9.42,lumberjack@1.4.1,journeymap@1.12.2-5.7.1,torcherino@7.6
-[18:04:33] [Netty Epoll Server IO #1/INFO] [journeymap]: CLIENT
-[18:04:33] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
-[18:04:33] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Bastian_BOSTERO[/100.73.109.128:4149] logged in with entity id 8011 at (149.5, 71.0999984741211, -1.5)
-[18:04:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Bastian_BOSTERO joined the game
-[18:09:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [THIAGAR7: Given [Grass Block] * 1 to THIAGAR7]
-[18:14:49] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Bastian_BOSTERO moved too quickly! 9.225761044550381,1.1661092609382138,4.5690659280221295
-[18:14:49] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: THIAGAR7 moved too quickly! 0.8652447944639334,0.7539862017387549,10.258883631775745
-[18:14:55] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: THIAGAR7 lost connection: Disconnected
-[18:14:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: THIAGAR7 left the game
-[18:14:57] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Bastian_BOSTERO was kicked for floating too long!
-[18:14:57] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Bastian_BOSTERO lost connection: Flying is not enabled on this server
-[18:14:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Bastian_BOSTERO left the game
-[18:15:08] [Netty Epoll Server IO #3/INFO] [FML]: Client protocol version 2
-[18:15:08] [Netty Epoll Server IO #3/INFO] [FML]: Client attempting to join with 16 mods : minecraft@1.12.2,usefulbackpacks@1.5.1.35,FML@8.0.99.99,forgelin@1.8.4,uteamcore@2.2.5.147,creativecoredummy@1.0.0,cfm@5.3.1,creativecore@1.10.0,jei@4.15.0.268,futuremc@0.2.6,forge@14.23.5.2860,playerrevive@1.0,mcp@9.42,lumberjack@1.4.1,journeymap@1.12.2-5.7.1,torcherino@7.6
-[18:15:08] [Netty Epoll Server IO #3/INFO] [journeymap]: CLIENT
-[18:15:09] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
-[18:15:09] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Bastian_BOSTERO[/100.73.109.128:4642] logged in with entity id 33202 at (149.5, 71.0999984741211, -1.5)
-[18:15:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Bastian_BOSTERO joined the game
-[18:31:05] [Netty Epoll Server IO #0/INFO] [FML]: Client protocol version 2
-[18:31:05] [Netty Epoll Server IO #0/INFO] [FML]: Client attempting to join with 16 mods : minecraft@1.12.2,usefulbackpacks@1.5.1.35,FML@8.0.99.99,forgelin@1.8.4,uteamcore@2.2.5.147,creativecoredummy@1.0.0,cfm@5.3.1,creativecore@1.10.0,jei@4.15.0.268,futuremc@0.2.6,forge@14.23.5.2860,playerrevive@1.0,mcp@9.42,lumberjack@1.4.1,journeymap@1.12.2-5.7.1,torcherino@7.6
-[18:31:05] [Netty Epoll Server IO #0/INFO] [journeymap]: CLIENT
-[18:31:06] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
-[18:31:06] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: THIAGAR7[/100.126.202.15:50020] logged in with entity id 65598 at (117.0875263777931, 71.0, -10.495061908896249)
-[18:31:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: THIAGAR7 joined the game
-[18:36:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [THIAGAR7: Teleported Bastian_BOSTERO to THIAGAR7]
-[18:38:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [THIAGAR7: Set own game mode to Creative Mode]
-[18:38:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [THIAGAR7: Set own game mode to Survival Mode]
-[18:42:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Bastian_BOSTERO is bleeding...
-[18:42:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [THIAGAR7: Teleported Bastian_BOSTERO to THIAGAR7]
-[18:52:32] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: THIAGAR7 moved wrongly!
-[18:57:03] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: THIAGAR7 moved wrongly!
-[18:58:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [THIAGAR7: Teleported THIAGAR7 to Bastian_BOSTERO]
-[18:58:17] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: THIAGAR7 was kicked for floating too long!
-[18:58:17] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: THIAGAR7 lost connection: Flying is not enabled on this server
-[18:58:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: THIAGAR7 left the game
-[18:58:26] [Netty Epoll Server IO #1/INFO] [FML]: Client protocol version 2
-[18:58:26] [Netty Epoll Server IO #1/INFO] [FML]: Client attempting to join with 16 mods : minecraft@1.12.2,usefulbackpacks@1.5.1.35,FML@8.0.99.99,forgelin@1.8.4,uteamcore@2.2.5.147,creativecoredummy@1.0.0,cfm@5.3.1,creativecore@1.10.0,jei@4.15.0.268,futuremc@0.2.6,forge@14.23.5.2860,playerrevive@1.0,mcp@9.42,lumberjack@1.4.1,journeymap@1.12.2-5.7.1,torcherino@7.6
-[18:58:26] [Netty Epoll Server IO #1/INFO] [journeymap]: CLIENT
-[18:58:27] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
-[18:58:27] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: THIAGAR7[/100.126.202.15:50094] logged in with entity id 131043 at (149.5, 71.0999984741211, -1.5)
-[18:58:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: THIAGAR7 joined the game
-[19:02:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [THIAGAR7: Teleported Bastian_BOSTERO to THIAGAR7]
-[19:04:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [THIAGAR7: Teleported THIAGAR7 to Bastian_BOSTERO]
-[19:09:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [THIAGAR7: Teleported Bastian_BOSTERO to THIAGAR7]
-[19:09:11] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: THIAGAR7 was kicked for floating too long!
-[19:09:11] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: THIAGAR7 lost connection: Flying is not enabled on this server
-[19:09:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: THIAGAR7 left the game
-[19:09:16] [Netty Epoll Server IO #2/INFO] [FML]: Client protocol version 2
-[19:09:16] [Netty Epoll Server IO #2/INFO] [FML]: Client attempting to join with 16 mods : minecraft@1.12.2,usefulbackpacks@1.5.1.35,FML@8.0.99.99,forgelin@1.8.4,uteamcore@2.2.5.147,creativecoredummy@1.0.0,cfm@5.3.1,creativecore@1.10.0,jei@4.15.0.268,futuremc@0.2.6,forge@14.23.5.2860,playerrevive@1.0,mcp@9.42,lumberjack@1.4.1,journeymap@1.12.2-5.7.1,torcherino@7.6
-[19:09:16] [Netty Epoll Server IO #2/INFO] [journeymap]: CLIENT
-[19:09:17] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
-[19:09:17] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: THIAGAR7[/100.126.202.15:50127] logged in with entity id 148500 at (149.5, 71.0999984741211, -1.5)
-[19:09:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: THIAGAR7 joined the game
-[19:19:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [THIAGAR7: Teleported Bastian_BOSTERO to THIAGAR7]
-[19:31:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [THIAGAR7: Teleported Bastian_BOSTERO to THIAGAR7]
-[19:33:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Bastian_BOSTERO is bleeding...
-[19:33:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [THIAGAR7: Teleported Bastian_BOSTERO to THIAGAR7]
-[19:34:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [THIAGAR7: Teleported Bastian_BOSTERO to THIAGAR7]
-[19:34:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [THIAGAR7: Teleported Bastian_BOSTERO to THIAGAR7]
-[19:34:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [THIAGAR7: Teleported Bastian_BOSTERO to THIAGAR7]
-[19:35:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Bastian_BOSTERO is bleeding...
-[19:35:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [THIAGAR7: Teleported Bastian_BOSTERO to THIAGAR7]
-[19:39:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [THIAGAR7: Teleported Bastian_BOSTERO to THIAGAR7]
-[19:45:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Bastian_BOSTERO has made the advancement [Enchanter]
-[19:59:35] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: THIAGAR7 moved wrongly!
-[20:13:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [THIAGAR7: Teleported THIAGAR7 to Bastian_BOSTERO]
-[20:14:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [THIAGAR7: Teleported Bastian_BOSTERO to THIAGAR7]
-[20:18:26] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Bastian_BOSTERO lost connection: Internal Exception: io.netty.channel.unix.Errors$NativeIoException: syscall:read(..) failed: Connection reset by peer
-[20:18:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Bastian_BOSTERO left the game
-[20:18:27] [Netty Epoll Server IO #3/INFO] [FML]: Client protocol version 2
-[20:18:27] [Netty Epoll Server IO #3/INFO] [FML]: Client attempting to join with 16 mods : minecraft@1.12.2,usefulbackpacks@1.5.1.35,FML@8.0.99.99,forgelin@1.8.4,uteamcore@2.2.5.147,creativecoredummy@1.0.0,cfm@5.3.1,creativecore@1.10.0,jei@4.15.0.268,futuremc@0.2.6,forge@14.23.5.2860,playerrevive@1.0,mcp@9.42,lumberjack@1.4.1,journeymap@1.12.2-5.7.1,torcherino@7.6
-[20:18:27] [Netty Epoll Server IO #3/INFO] [journeymap]: CLIENT
-[20:18:28] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
-[20:18:28] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Bastian_BOSTERO[/100.73.109.128:1079] logged in with entity id 280901 at (62.67511580122226, 70.9375, -57.33347505680827)
-[20:18:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Bastian_BOSTERO joined the game
-[20:24:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [THIAGAR7: Teleported THIAGAR7 to Bastian_BOSTERO]
-[20:36:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [THIAGAR7: Teleported Bastian_BOSTERO to THIAGAR7]
-[20:44:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <THIAGAR7> 36 -45
-[20:47:14] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: THIAGAR7 was kicked for floating too long!
-[20:47:14] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: THIAGAR7 lost connection: Flying is not enabled on this server
-[20:47:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: THIAGAR7 left the game
-[20:47:14] [Server thread/WARN] [net.minecraft.network.NetworkManager]: handleDisconnection() called twice
-[20:47:21] [Netty Epoll Server IO #0/INFO] [FML]: Client protocol version 2
-[20:47:21] [Netty Epoll Server IO #0/INFO] [FML]: Client attempting to join with 16 mods : minecraft@1.12.2,usefulbackpacks@1.5.1.35,FML@8.0.99.99,forgelin@1.8.4,uteamcore@2.2.5.147,creativecoredummy@1.0.0,cfm@5.3.1,creativecore@1.10.0,jei@4.15.0.268,futuremc@0.2.6,forge@14.23.5.2860,playerrevive@1.0,mcp@9.42,lumberjack@1.4.1,journeymap@1.12.2-5.7.1,torcherino@7.6
-[20:47:21] [Netty Epoll Server IO #0/INFO] [journeymap]: CLIENT
-[20:47:24] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
-[20:47:24] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: THIAGAR7[/100.126.202.15:50544] logged in with entity id 350390 at (149.5, 71.0999984741211, -1.5)
-[20:47:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: THIAGAR7 joined the game
-[20:54:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [THIAGAR7: Teleported THIAGAR7 to Bastian_BOSTERO]
-[20:54:54] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: THIAGAR7 lost connection: Timed out
-[20:54:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: THIAGAR7 left the game
-[20:54:57] [Netty Epoll Server IO #2/INFO] [FML]: Client protocol version 2
-[20:54:57] [Netty Epoll Server IO #2/INFO] [FML]: Client attempting to join with 16 mods : minecraft@1.12.2,usefulbackpacks@1.5.1.35,FML@8.0.99.99,forgelin@1.8.4,uteamcore@2.2.5.147,creativecoredummy@1.0.0,cfm@5.3.1,creativecore@1.10.0,jei@4.15.0.268,futuremc@0.2.6,forge@14.23.5.2860,playerrevive@1.0,mcp@9.42,lumberjack@1.4.1,journeymap@1.12.2-5.7.1,torcherino@7.6
-[20:54:57] [Netty Epoll Server IO #2/INFO] [journeymap]: CLIENT
-[20:55:01] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
-[20:55:01] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: THIAGAR7[/100.126.202.15:50568] logged in with entity id 361418 at (-18.91170931543519, 47.0, -165.6159746308163)
-[20:55:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: THIAGAR7 joined the game
-[20:58:16] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Bastian_BOSTERO lost connection: Timed out
-[20:58:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Bastian_BOSTERO left the game
-[20:59:34] [Netty Epoll Server IO #0/INFO] [FML]: Client protocol version 2
-[20:59:34] [Netty Epoll Server IO #0/INFO] [FML]: Client attempting to join with 16 mods : minecraft@1.12.2,usefulbackpacks@1.5.1.35,FML@8.0.99.99,forgelin@1.8.4,uteamcore@2.2.5.147,creativecoredummy@1.0.0,cfm@5.3.1,creativecore@1.10.0,jei@4.15.0.268,futuremc@0.2.6,forge@14.23.5.2860,playerrevive@1.0,mcp@9.42,lumberjack@1.4.1,journeymap@1.12.2-5.7.1,torcherino@7.6
-[20:59:34] [Netty Epoll Server IO #0/INFO] [journeymap]: CLIENT
-[20:59:35] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
-[20:59:35] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Bastian_BOSTERO[/100.73.109.128:1577] logged in with entity id 369395 at (-25.341775355878667, 40.0, -163.8882920909403)
-[20:59:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Bastian_BOSTERO joined the game
-[21:01:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [THIAGAR7: Teleported Bastian_BOSTERO to THIAGAR7]
-[21:21:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [THIAGAR7: Teleported THIAGAR7 to Bastian_BOSTERO]
-[21:23:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [THIAGAR7: Teleported THIAGAR7 to Bastian_BOSTERO]
-[21:33:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [THIAGAR7: Teleported THIAGAR7 to Bastian_BOSTERO]
-[21:35:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [THIAGAR7: Set own game mode to Spectator Mode]
-[21:36:19] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: THIAGAR7 moved too quickly! -9.034598672843053,0.0,4.35147023676376
-[21:36:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [THIAGAR7: Teleported THIAGAR7 to Bastian_BOSTERO]
-[21:37:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [THIAGAR7: Changing to clear weather]
-[21:37:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [THIAGAR7: Set own game mode to Survival Mode]
-[21:37:12] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: THIAGAR7 lost connection: Disconnected
-[21:37:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: THIAGAR7 left the game
-[21:37:20] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Bastian_BOSTERO lost connection: Disconnected
-[21:37:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Bastian_BOSTERO left the game
-[21:38:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Stopping the server
-[21:38:53] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
-[21:38:53] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
-[21:38:53] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
-[21:38:53] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/overworld
-[21:38:53] [Server thread/INFO] [FML]: Unloading dimension 0
+[01:08:21] [Server thread/INFO] [net.minecraft.advancements.AdvancementList]: Loaded 512 advancements
+[01:08:21] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@438ae5f1)
+[01:08:21] [Server thread/INFO] [FML]: Loading dimension 1 (world) (net.minecraft.server.dedicated.DedicatedServer@438ae5f1)
+[01:08:21] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing start region for level 0
+[01:08:22] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 27%
+[01:08:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Done (3.042s)! For help, type "help" or "?"
+[01:08:23] [Server thread/INFO] [FML]: Unloading dimension -1
+[01:08:23] [Server thread/INFO] [FML]: Unloading dimension 1
+[01:08:34] [Netty Epoll Server IO #3/INFO] [FML]: Client protocol version 2
+[01:08:34] [Netty Epoll Server IO #3/INFO] [FML]: Client attempting to join with 16 mods : minecraft@1.12.2,usefulbackpacks@1.5.1.35,FML@8.0.99.99,forgelin@1.8.4,uteamcore@2.2.5.147,creativecoredummy@1.0.0,cfm@5.3.1,creativecore@1.10.0,jei@4.15.0.268,futuremc@0.2.6,forge@14.23.5.2860,playerrevive@1.0,mcp@9.42,lumberjack@1.4.1,journeymap@1.12.2-5.7.1,torcherino@7.6
+[01:08:34] [Netty Epoll Server IO #3/INFO] [journeymap]: CLIENT
+[01:08:35] [Netty Epoll Server IO #0/INFO] [FML]: Client protocol version 2
+[01:08:35] [Netty Epoll Server IO #0/INFO] [FML]: Client attempting to join with 16 mods : minecraft@1.12.2,usefulbackpacks@1.5.1.35,FML@8.0.99.99,forgelin@1.8.4,uteamcore@2.2.5.147,creativecoredummy@1.0.0,cfm@5.3.1,creativecore@1.10.0,jei@4.15.0.268,futuremc@0.2.6,forge@14.23.5.2860,playerrevive@1.0,mcp@9.42,lumberjack@1.4.1,journeymap@1.12.2-5.7.1,torcherino@7.6
+[01:08:35] [Netty Epoll Server IO #0/INFO] [journeymap]: CLIENT
+[01:08:35] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[01:08:35] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Bastian_BOSTERO[/100.73.109.128:1830] logged in with entity id 270 at (145.5, 71.10000000000001, -1.5)
+[01:08:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Bastian_BOSTERO joined the game
+[01:08:35] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[01:08:35] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: THIAGAR7[/100.126.202.15:49968] logged in with entity id 272 at (142.65641103834614, 71.0, -1.836134931592409)
+[01:08:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: THIAGAR7 joined the game
+[01:08:47] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Bastian_BOSTERO was kicked for floating too long!
+[01:08:47] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Bastian_BOSTERO lost connection: Flying is not enabled on this server
+[01:08:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Bastian_BOSTERO left the game
+[01:08:52] [Netty Epoll Server IO #0/INFO] [FML]: Client protocol version 2
+[01:08:52] [Netty Epoll Server IO #0/INFO] [FML]: Client attempting to join with 16 mods : minecraft@1.12.2,usefulbackpacks@1.5.1.35,FML@8.0.99.99,forgelin@1.8.4,uteamcore@2.2.5.147,creativecoredummy@1.0.0,cfm@5.3.1,creativecore@1.10.0,jei@4.15.0.268,futuremc@0.2.6,forge@14.23.5.2860,playerrevive@1.0,mcp@9.42,lumberjack@1.4.1,journeymap@1.12.2-5.7.1,torcherino@7.6
+[01:08:52] [Netty Epoll Server IO #0/INFO] [journeymap]: CLIENT
+[01:08:53] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[01:08:53] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Bastian_BOSTERO[/100.73.109.128:1893] logged in with entity id 848 at (144.5, 72.10000000000001, -1.5)
+[01:08:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Bastian_BOSTERO joined the game
+[01:12:18] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: THIAGAR7 lost connection: Disconnected
+[01:12:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: THIAGAR7 left the game
+[01:12:21] [Netty Epoll Server IO #3/INFO] [FML]: Client protocol version 2
+[01:12:21] [Netty Epoll Server IO #3/INFO] [FML]: Client attempting to join with 16 mods : minecraft@1.12.2,usefulbackpacks@1.5.1.35,FML@8.0.99.99,forgelin@1.8.4,uteamcore@2.2.5.147,creativecoredummy@1.0.0,cfm@5.3.1,creativecore@1.10.0,jei@4.15.0.268,futuremc@0.2.6,forge@14.23.5.2860,playerrevive@1.0,mcp@9.42,lumberjack@1.4.1,journeymap@1.12.2-5.7.1,torcherino@7.6
+[01:12:21] [Netty Epoll Server IO #3/INFO] [journeymap]: CLIENT
+[01:12:22] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[01:12:22] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: THIAGAR7[/100.126.202.15:49994] logged in with entity id 7399 at (151.51629837591923, 63.875, -13.763439272486833)
+[01:12:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: THIAGAR7 joined the game
+[01:17:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [THIAGAR7: Set own game mode to Spectator Mode]
+[01:17:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [THIAGAR7: Teleported THIAGAR7 to 157.5, 8.0, 61.5]
+[01:17:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [THIAGAR7: Teleported Bastian_BOSTERO to THIAGAR7]
+[01:17:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [THIAGAR7: Set own game mode to Survival Mode]
