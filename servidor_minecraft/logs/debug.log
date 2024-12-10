@@ -8084,3 +8084,55 @@ com.google.gson.JsonSyntaxException: Unknown recipe 'minecraft:trapdoor'
 [01:56:22] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [01:57:07] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [01:57:52] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:58:37] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:59:22] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:00:07] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:00:52] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:01:37] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:02:22] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:03:07] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:03:52] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:04:37] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:05:22] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:06:07] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:06:52] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:07:20] [Server thread/TRACE] [FML]: Handshake channel activating
+[02:07:20] [Server thread/DEBUG] [FML]: FMLHandshakeServerState: null->FMLHandshakeServerState$1:START
+[02:07:20] [Server thread/DEBUG] [FML]:   Next: HELLO
+[02:07:20] [Netty Epoll Server IO #1/DEBUG] [FML]: FMLHandshakeServerState: $ClientHello->FMLHandshakeServerState$2:HELLO
+[02:07:20] [Netty Epoll Server IO #1/INFO] [FML]: Client protocol version 2
+[02:07:20] [Netty Epoll Server IO #1/DEBUG] [FML]: FMLHandshakeServerState: $ModList:16 mods->FMLHandshakeServerState$2:HELLO
+[02:07:20] [Netty Epoll Server IO #1/INFO] [FML]: Client attempting to join with 16 mods : minecraft@1.12.2,usefulbackpacks@1.5.1.35,FML@8.0.99.99,forgelin@1.8.4,uteamcore@2.2.5.147,creativecoredummy@1.0.0,cfm@5.3.1,creativecore@1.10.0,jei@4.15.0.268,futuremc@0.2.6,forge@14.23.5.2860,playerrevive@1.0,mcp@9.42,lumberjack@1.4.1,journeymap@1.12.2-5.7.1,torcherino@7.6
+[02:07:20] [Netty Epoll Server IO #1/INFO] [journeymap]: CLIENT
+[02:07:20] [Netty Epoll Server IO #1/DEBUG] [FML]:   Next: WAITINGCACK
+[02:07:21] [Netty Epoll Server IO #1/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{2}->FMLHandshakeServerState$3:WAITINGCACK
+[02:07:21] [Netty Epoll Server IO #1/DEBUG] [FML]:   Next: COMPLETE
+[02:07:21] [Netty Epoll Server IO #1/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{3}->FMLHandshakeServerState$4:COMPLETE
+[02:07:21] [Netty Epoll Server IO #1/DEBUG] [FML]:   Next: DONE
+[02:07:21] [Netty Epoll Server IO #1/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{4}->FMLHandshakeServerState$5:DONE
+[02:07:21] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[02:07:21] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: THIAGAR7[/100.126.202.15:50131] logged in with entity id 43723 at (128.69999998807907, 11.0, -297.3986703159316)
+[02:07:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: THIAGAR7 joined the game
+[02:07:21] [Netty Epoll Server IO #1/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{5}->FMLHandshakeServerState$5:DONE
+[02:07:31] [Server thread/TRACE] [FML]: Handshake channel activating
+[02:07:31] [Server thread/DEBUG] [FML]: FMLHandshakeServerState: null->FMLHandshakeServerState$1:START
+[02:07:31] [Server thread/DEBUG] [FML]:   Next: HELLO
+[02:07:31] [Netty Epoll Server IO #3/DEBUG] [FML]: FMLHandshakeServerState: $ClientHello->FMLHandshakeServerState$2:HELLO
+[02:07:31] [Netty Epoll Server IO #3/INFO] [FML]: Client protocol version 2
+[02:07:31] [Netty Epoll Server IO #3/DEBUG] [FML]: FMLHandshakeServerState: $ModList:16 mods->FMLHandshakeServerState$2:HELLO
+[02:07:31] [Netty Epoll Server IO #3/INFO] [FML]: Client attempting to join with 16 mods : minecraft@1.12.2,usefulbackpacks@1.5.1.35,FML@8.0.99.99,forgelin@1.8.4,uteamcore@2.2.5.147,creativecoredummy@1.0.0,cfm@5.3.1,creativecore@1.10.0,jei@4.15.0.268,futuremc@0.2.6,forge@14.23.5.2860,playerrevive@1.0,mcp@9.42,lumberjack@1.4.1,journeymap@1.12.2-5.7.1,torcherino@7.6
+[02:07:31] [Netty Epoll Server IO #3/INFO] [journeymap]: CLIENT
+[02:07:31] [Netty Epoll Server IO #3/DEBUG] [FML]:   Next: WAITINGCACK
+[02:07:31] [Netty Epoll Server IO #3/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{2}->FMLHandshakeServerState$3:WAITINGCACK
+[02:07:31] [Netty Epoll Server IO #3/DEBUG] [FML]:   Next: COMPLETE
+[02:07:32] [Netty Epoll Server IO #3/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{3}->FMLHandshakeServerState$4:COMPLETE
+[02:07:32] [Netty Epoll Server IO #3/DEBUG] [FML]:   Next: DONE
+[02:07:32] [Netty Epoll Server IO #3/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{4}->FMLHandshakeServerState$5:DONE
+[02:07:32] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[02:07:32] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Bastian_BOSTERO[/100.73.109.128:4139] logged in with entity id 44124 at (143.30000001192093, 4.0, -315.6732891043648)
+[02:07:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Bastian_BOSTERO joined the game
+[02:07:32] [Netty Epoll Server IO #3/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{5}->FMLHandshakeServerState$5:DONE
+[02:07:37] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:07:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [THIAGAR7: Teleported Bastian_BOSTERO to THIAGAR7]
+[02:07:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [THIAGAR7: Set Bastian_BOSTERO's game mode to Creative Mode]
+[02:08:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [THIAGAR7: Given [Diamond] * 7 to Bastian_BOSTERO]
