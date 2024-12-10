@@ -8630,3 +8630,21 @@ com.google.gson.JsonSyntaxException: Unknown recipe 'minecraft:trapdoor'
 [05:27:52] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [05:28:37] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [05:29:22] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[05:30:07] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[05:30:52] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[05:31:37] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[05:32:22] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[05:33:07] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[05:33:52] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[05:34:37] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[05:35:22] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[05:35:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [THIAGAR7: Kicked Bastian_BOSTERO from the game]
+[05:35:41] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Bastian_BOSTERO lost connection: Kicked by an operator.
+[05:35:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Bastian_BOSTERO left the game
+[05:36:07] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[05:36:52] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[05:37:37] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[05:38:22] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[05:39:07] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[05:39:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [THIAGAR7: Set own game mode to Creative Mode]
+[05:39:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [THIAGAR7: Set own game mode to Survival Mode]
