@@ -8396,3 +8396,34 @@ com.google.gson.JsonSyntaxException: Unknown recipe 'minecraft:trapdoor'
 [19:43:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [THIAGAR7: Kicked Bastian_BOSTERO from the game]
 [19:43:47] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Bastian_BOSTERO lost connection: Kicked by an operator.
 [19:43:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Bastian_BOSTERO left the game
+[19:44:26] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:45:11] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:45:56] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:46:41] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:47:26] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:48:11] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:48:56] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:49:41] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:50:26] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:51:11] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:51:56] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:52:41] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:52:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [THIAGAR7: Set own game mode to Creative Mode]
+[19:53:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [THIAGAR7: Set own game mode to Survival Mode]
+[19:53:26] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:54:11] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:54:56] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:55:41] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:56:26] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:57:11] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:57:56] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:58:41] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:59:26] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:00:11] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:00:56] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:00:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [THIAGAR7: Set own game mode to Creative Mode]
+[20:01:41] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:02:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [THIAGAR7: Set own game mode to Survival Mode]
+[20:02:26] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:03:11] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:03:56] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
