@@ -8648,3 +8648,20 @@ com.google.gson.JsonSyntaxException: Unknown recipe 'minecraft:trapdoor'
 [05:39:07] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [05:39:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [THIAGAR7: Set own game mode to Creative Mode]
 [05:39:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [THIAGAR7: Set own game mode to Survival Mode]
+[05:39:52] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[05:40:37] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[05:41:22] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[05:42:07] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[05:42:52] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[05:43:37] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[05:44:22] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[05:45:07] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[05:45:52] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[05:46:37] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[05:46:50] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: THIAGAR7 moved too quickly! -1.5834516749966383,-11.924174122611241,0.012711123476037756
+[05:47:22] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[05:47:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [THIAGAR7: Set own game mode to Creative Mode]
+[05:47:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [THIAGAR7: Set own game mode to Survival Mode]
+[05:48:07] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[05:48:52] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[05:49:37] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world

@@ -408,3 +408,6 @@ com.google.gson.JsonSyntaxException: Unknown recipe 'minecraft:trapdoor'
 [05:35:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Bastian_BOSTERO left the game
 [05:39:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [THIAGAR7: Set own game mode to Creative Mode]
 [05:39:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [THIAGAR7: Set own game mode to Survival Mode]
+[05:46:50] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: THIAGAR7 moved too quickly! -1.5834516749966383,-11.924174122611241,0.012711123476037756
+[05:47:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [THIAGAR7: Set own game mode to Creative Mode]
+[05:47:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [THIAGAR7: Set own game mode to Survival Mode]
