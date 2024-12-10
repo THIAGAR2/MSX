@@ -669,6 +669,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2024-12-10 03:46:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/light_gray_dye_from_ink_bonemeal": {
     "criteria": {
       "has_bonemeal": "2024-12-09 04:10:14 +0000"
@@ -1305,6 +1311,12 @@
     },
     "done": true
   },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2024-12-10 03:46:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/noteblock": {
     "criteria": {
       "has_redstone": "2024-12-08 21:36:19 +0000"
@@ -1375,6 +1387,7 @@
       "plains": "2024-10-26 13:53:45 +0000",
       "taiga": "2024-10-26 13:01:32 +0000",
       "taiga_hills": "2024-10-26 13:00:02 +0000",
+      "birch_forest_hills": "2024-12-10 03:40:29 +0000",
       "extreme_hills": "2024-10-26 13:53:12 +0000",
       "river": "2024-10-26 13:53:43 +0000",
       "stone_beach": "2024-12-08 21:03:37 +0000"
