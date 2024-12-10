@@ -375,3 +375,20 @@ com.google.gson.JsonSyntaxException: Unknown recipe 'minecraft:trapdoor'
 [21:10:15] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
 [21:10:15] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Bastian_BOSTERO[/100.73.109.128:2115] logged in with entity id 399210 at (150.62772182531342, 70.0, -2.643151971294095)
 [21:10:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Bastian_BOSTERO joined the game
+[21:16:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [THIAGAR7: Teleported THIAGAR7 to Bastian_BOSTERO]
+[21:16:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [THIAGAR7: Kicked Bastian_BOSTERO from the game]
+[21:16:52] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Bastian_BOSTERO lost connection: Kicked by an operator.
+[21:16:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Bastian_BOSTERO left the game
+[21:17:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [THIAGAR7: Set own game mode to Creative Mode]
+[21:18:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [THIAGAR7: Set own game mode to Survival Mode]
+[21:22:33] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: THIAGAR7 lost connection: Disconnected
+[21:22:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: THIAGAR7 left the game
+[21:23:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Stopping the server
+[21:23:39] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[21:23:39] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[21:23:39] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
+[21:23:39] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/overworld
+[21:23:40] [Server thread/INFO] [FML]: Unloading dimension 0
+[21:23:40] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[21:23:40] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[21:23:40] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
