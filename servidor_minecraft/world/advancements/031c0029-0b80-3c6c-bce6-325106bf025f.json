@@ -709,6 +709,12 @@
     },
     "done": true
   },
+  "cfm:heyeyey": {
+    "criteria": {
+      "placed_tv": "2024-12-10 18:34:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/orange_stained_glass": {
     "criteria": {
       "has_glass": "2024-12-09 04:40:04 +0000"
