@@ -8164,3 +8164,22 @@ com.google.gson.JsonSyntaxException: Unknown recipe 'minecraft:trapdoor'
 [02:16:37] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [02:17:22] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [02:18:07] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:18:52] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:19:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [THIAGAR7: Given [Block of Iron] * 50 to Bastian_BOSTERO]
+[02:19:37] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:20:22] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:21:07] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:21:52] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:22:37] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:23:22] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:24:07] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:24:52] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:25:37] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:25:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [THIAGAR7: Teleported THIAGAR7 to Bastian_BOSTERO]
+[02:26:22] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:26:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [THIAGAR7: Given [Iron Bars] * 3 to THIAGAR7]
+[02:27:07] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:27:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [THIAGAR7: Given [Iron Ore] * 50 to Bastian_BOSTERO]
+[02:27:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [THIAGAR7: Given [Gold Ore] * 50 to Bastian_BOSTERO]
+[02:27:52] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:28:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [THIAGAR7: Given [Iron Ingot] * 3 to THIAGAR7]
