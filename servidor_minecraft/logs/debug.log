@@ -8679,3 +8679,115 @@ com.google.gson.JsonSyntaxException: Unknown recipe 'minecraft:trapdoor'
 [05:57:52] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [05:58:37] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [05:59:22] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[06:00:07] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[06:00:52] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[06:01:09] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: THIAGAR7 lost connection: Disconnected
+[06:01:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: THIAGAR7 left the game
+[06:01:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Stopping the server
+[06:01:37] [Server thread/TRACE] [FML]: Sending event FMLServerStoppingEvent to mod minecraft
+[06:01:37] [Server thread/TRACE] [FML]: Sent event FMLServerStoppingEvent to mod minecraft
+[06:01:37] [Server thread/DEBUG] [FML]: Bar Step: ServerStopping - Minecraft took 0.000s
+[06:01:37] [Server thread/TRACE] [FML]: Sending event FMLServerStoppingEvent to mod mcp
+[06:01:37] [Server thread/TRACE] [FML]: Sent event FMLServerStoppingEvent to mod mcp
+[06:01:37] [Server thread/DEBUG] [FML]: Bar Step: ServerStopping - Minecraft Coder Pack took 0.000s
+[06:01:37] [Server thread/TRACE] [FML]: Sending event FMLServerStoppingEvent to mod FML
+[06:01:37] [Server thread/TRACE] [FML]: Sent event FMLServerStoppingEvent to mod FML
+[06:01:37] [Server thread/DEBUG] [FML]: Bar Step: ServerStopping - Forge Mod Loader took 0.000s
+[06:01:37] [Server thread/TRACE] [FML]: Sending event FMLServerStoppingEvent to mod forge
+[06:01:37] [Server thread/TRACE] [FML]: Sent event FMLServerStoppingEvent to mod forge
+[06:01:37] [Server thread/DEBUG] [FML]: Bar Step: ServerStopping - Minecraft Forge took 0.000s
+[06:01:37] [Server thread/TRACE] [FML]: Sending event FMLServerStoppingEvent to mod creativecoredummy
+[06:01:37] [Server thread/TRACE] [FML]: Sent event FMLServerStoppingEvent to mod creativecoredummy
+[06:01:37] [Server thread/DEBUG] [FML]: Bar Step: ServerStopping - CreativeCoreDummy took 0.000s
+[06:01:37] [Server thread/TRACE] [FML]: Sending event FMLServerStoppingEvent to mod creativecore
+[06:01:37] [Server thread/TRACE] [FML]: Sent event FMLServerStoppingEvent to mod creativecore
+[06:01:37] [Server thread/DEBUG] [FML]: Bar Step: ServerStopping - CreativeCore took 0.000s
+[06:01:37] [Server thread/TRACE] [FML]: Sending event FMLServerStoppingEvent to mod forgelin
+[06:01:37] [Server thread/TRACE] [FML]: Sent event FMLServerStoppingEvent to mod forgelin
+[06:01:37] [Server thread/DEBUG] [FML]: Bar Step: ServerStopping - Shadowfacts' Forgelin took 0.000s
+[06:01:37] [Server thread/TRACE] [FML]: Sending event FMLServerStoppingEvent to mod cfm
+[06:01:37] [Server thread/TRACE] [FML]: Sent event FMLServerStoppingEvent to mod cfm
+[06:01:37] [Server thread/DEBUG] [FML]: Bar Step: ServerStopping - MrCrayfish's Furniture Mod took 0.000s
+[06:01:37] [Server thread/TRACE] [FML]: Sending event FMLServerStoppingEvent to mod futuremc
+[06:01:37] [Server thread/TRACE] [FML]: Sent event FMLServerStoppingEvent to mod futuremc
+[06:01:37] [Server thread/DEBUG] [FML]: Bar Step: ServerStopping - Future MC took 0.000s
+[06:01:37] [Server thread/TRACE] [FML]: Sending event FMLServerStoppingEvent to mod jei
+[06:01:37] [Server thread/TRACE] [FML]: Sent event FMLServerStoppingEvent to mod jei
+[06:01:37] [Server thread/DEBUG] [FML]: Bar Step: ServerStopping - Just Enough Items took 0.000s
+[06:01:37] [Server thread/TRACE] [FML]: Sending event FMLServerStoppingEvent to mod journeymap
+[06:01:37] [Server thread/TRACE] [FML]: Sent event FMLServerStoppingEvent to mod journeymap
+[06:01:37] [Server thread/DEBUG] [FML]: Bar Step: ServerStopping - JourneyMap took 0.000s
+[06:01:37] [Server thread/TRACE] [FML]: Sending event FMLServerStoppingEvent to mod lumberjack
+[06:01:37] [Server thread/TRACE] [FML]: Sent event FMLServerStoppingEvent to mod lumberjack
+[06:01:37] [Server thread/DEBUG] [FML]: Bar Step: ServerStopping - LumberJack took 0.000s
+[06:01:37] [Server thread/TRACE] [FML]: Sending event FMLServerStoppingEvent to mod playerrevive
+[06:01:37] [Server thread/TRACE] [FML]: Sent event FMLServerStoppingEvent to mod playerrevive
+[06:01:37] [Server thread/DEBUG] [FML]: Bar Step: ServerStopping - Player Revive took 0.000s
+[06:01:37] [Server thread/TRACE] [FML]: Sending event FMLServerStoppingEvent to mod torcherino
+[06:01:37] [Server thread/TRACE] [FML]: Sent event FMLServerStoppingEvent to mod torcherino
+[06:01:37] [Server thread/DEBUG] [FML]: Bar Step: ServerStopping - Torcherino took 0.000s
+[06:01:37] [Server thread/TRACE] [FML]: Sending event FMLServerStoppingEvent to mod uteamcore
+[06:01:37] [Server thread/TRACE] [FML]: Sent event FMLServerStoppingEvent to mod uteamcore
+[06:01:37] [Server thread/DEBUG] [FML]: Bar Step: ServerStopping - U Team Core took 0.000s
+[06:01:37] [Server thread/TRACE] [FML]: Sending event FMLServerStoppingEvent to mod usefulbackpacks
+[06:01:37] [Server thread/TRACE] [FML]: Sent event FMLServerStoppingEvent to mod usefulbackpacks
+[06:01:37] [Server thread/DEBUG] [FML]: Bar Step: ServerStopping - Useful Backpacks took 0.000s
+[06:01:37] [Server thread/DEBUG] [FML]: Bar Finished: ServerStopping took 0.003s
+[06:01:37] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[06:01:37] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[06:01:37] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
+[06:01:37] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/overworld
+[06:01:37] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[06:01:37] [Server thread/INFO] [FML]: Unloading dimension 0
+[06:01:37] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod minecraft
+[06:01:37] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod minecraft
+[06:01:37] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - Minecraft took 0.000s
+[06:01:37] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod mcp
+[06:01:37] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod mcp
+[06:01:37] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - Minecraft Coder Pack took 0.000s
+[06:01:37] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod FML
+[06:01:37] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod FML
+[06:01:37] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - Forge Mod Loader took 0.000s
+[06:01:37] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod forge
+[06:01:37] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod forge
+[06:01:37] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - Minecraft Forge took 0.000s
+[06:01:37] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod creativecoredummy
+[06:01:37] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod creativecoredummy
+[06:01:37] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - CreativeCoreDummy took 0.000s
+[06:01:37] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod creativecore
+[06:01:37] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod creativecore
+[06:01:37] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - CreativeCore took 0.000s
+[06:01:37] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod forgelin
+[06:01:37] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod forgelin
+[06:01:37] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - Shadowfacts' Forgelin took 0.000s
+[06:01:37] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod cfm
+[06:01:37] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod cfm
+[06:01:37] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - MrCrayfish's Furniture Mod took 0.000s
+[06:01:37] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod futuremc
+[06:01:37] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod futuremc
+[06:01:37] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - Future MC took 0.000s
+[06:01:37] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod jei
+[06:01:37] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod jei
+[06:01:37] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - Just Enough Items took 0.000s
+[06:01:37] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod journeymap
+[06:01:37] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod journeymap
+[06:01:37] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - JourneyMap took 0.000s
+[06:01:37] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod lumberjack
+[06:01:37] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod lumberjack
+[06:01:37] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - LumberJack took 0.000s
+[06:01:37] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod playerrevive
+[06:01:37] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod playerrevive
+[06:01:37] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - Player Revive took 0.000s
+[06:01:37] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod torcherino
+[06:01:37] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod torcherino
+[06:01:37] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - Torcherino took 0.000s
+[06:01:37] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod uteamcore
+[06:01:37] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod uteamcore
+[06:01:37] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - U Team Core took 0.000s
+[06:01:37] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod usefulbackpacks
+[06:01:37] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod usefulbackpacks
+[06:01:37] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - Useful Backpacks took 0.000s
+[06:01:37] [Server thread/DEBUG] [FML]: Bar Finished: ServerStopped took 0.003s
+[06:01:37] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[06:01:37] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[06:01:37] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
