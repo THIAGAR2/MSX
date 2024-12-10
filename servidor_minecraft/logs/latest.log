@@ -367,3 +367,10 @@ com.google.gson.JsonSyntaxException: Unknown recipe 'minecraft:trapdoor'
 [04:01:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [THIAGAR7: Teleported Bastian_BOSTERO to THIAGAR7]
 [04:05:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Bastian_BOSTERO has made the advancement [Cover Me With Diamonds]
 [04:09:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: THIAGAR7 has made the advancement [Cover Me With Diamonds]
+[04:36:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <THIAGAR7> me escuchas?
+[04:36:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Bastian_BOSTERO> no
+[04:36:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Bastian_BOSTERO> estoy hablando
+[04:37:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Bastian_BOSTERO> t escucho
+[04:37:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Bastian_BOSTERO> poneme en altavoz
+[04:37:44] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: THIAGAR7 lost connection: Timed out
+[04:37:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: THIAGAR7 left the game
