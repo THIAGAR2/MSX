@@ -233,3 +233,5 @@ com.google.gson.JsonSyntaxException: Unknown recipe 'minecraft:trapdoor'
 [17:06:52] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
 [17:13:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [THIAGAR7: Teleported Bastian_BOSTERO to THIAGAR7]
 [17:14:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [THIAGAR7: Teleported Bastian_BOSTERO to THIAGAR7]
+[17:26:04] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: THIAGAR7 moved too quickly! -2.612466978621171,-0.5800000131130219,9.994392756093077
+[17:26:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [THIAGAR7: Teleported Bastian_BOSTERO to THIAGAR7]
