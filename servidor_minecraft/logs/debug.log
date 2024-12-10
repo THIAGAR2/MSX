@@ -8136,3 +8136,31 @@ com.google.gson.JsonSyntaxException: Unknown recipe 'minecraft:trapdoor'
 [02:07:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [THIAGAR7: Teleported Bastian_BOSTERO to THIAGAR7]
 [02:07:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [THIAGAR7: Set Bastian_BOSTERO's game mode to Creative Mode]
 [02:08:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [THIAGAR7: Given [Diamond] * 7 to Bastian_BOSTERO]
+[02:08:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [THIAGAR7: Given [Diamond] * 5 to Bastian_BOSTERO]
+[02:08:22] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:08:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [THIAGAR7: Given [Iron Sword] * 1 to Bastian_BOSTERO]
+[02:08:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [THIAGAR7: Given [Iron Pickaxe] * 1 to Bastian_BOSTERO]
+[02:08:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [THIAGAR7: Given [Small Backpack] * 1 to Bastian_BOSTERO]
+[02:09:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [THIAGAR7: Set own game mode to Creative Mode]
+[02:09:07] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:09:52] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:10:37] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:11:22] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:11:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [THIAGAR7: Set own game mode to Survival Mode]
+[02:12:07] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:12:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [THIAGAR7: Set own game mode to Survival Mode]
+[02:12:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [THIAGAR7: Set own game mode to Creative Mode]
+[02:12:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [THIAGAR7: Set own game mode to Survival Mode]
+[02:12:52] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:13:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [THIAGAR7: Set Bastian_BOSTERO's game mode to Survival Mode]
+[02:13:37] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:14:22] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:14:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [THIAGAR7: Given [Stone Pickaxe] * 1 to Bastian_BOSTERO]
+[02:14:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [THIAGAR7: Given [Stone Pickaxe] * 1 to Bastian_BOSTERO]
+[02:14:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [THIAGAR7: Given [Stone Pickaxe] * 1 to Bastian_BOSTERO]
+[02:14:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [THIAGAR7: Given [Stone Pickaxe] * 1 to Bastian_BOSTERO]
+[02:15:07] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:15:52] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:16:37] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:17:22] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:18:07] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
