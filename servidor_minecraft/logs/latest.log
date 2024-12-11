@@ -362,3 +362,12 @@ com.google.gson.JsonSyntaxException: Unknown recipe 'minecraft:trapdoor'
 [04:30:00] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Bastian_BOSTERO[/100.73.109.128:2097] logged in with entity id 263376 at (149.5, 70.0999984741211, -53.5)
 [04:30:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Bastian_BOSTERO joined the game
 [04:47:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <THIAGAR7> HOJAS (ároles y liros
+[05:03:07] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Bastian_BOSTERO was kicked for floating too long!
+[05:03:07] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Bastian_BOSTERO lost connection: Flying is not enabled on this server
+[05:03:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Bastian_BOSTERO left the game
+[05:03:18] [Netty Epoll Server IO #0/INFO] [FML]: Client protocol version 2
+[05:03:18] [Netty Epoll Server IO #0/INFO] [FML]: Client attempting to join with 16 mods : minecraft@1.12.2,usefulbackpacks@1.5.1.35,FML@8.0.99.99,forgelin@1.8.4,uteamcore@2.2.5.147,creativecoredummy@1.0.0,cfm@5.3.1,creativecore@1.10.0,jei@4.15.0.268,futuremc@0.2.6,forge@14.23.5.2860,playerrevive@1.0,mcp@9.42,lumberjack@1.4.1,journeymap@1.12.2-5.7.1,torcherino@7.6
+[05:03:18] [Netty Epoll Server IO #0/INFO] [journeymap]: CLIENT
+[05:03:19] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[05:03:19] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Bastian_BOSTERO[/100.73.109.128:2305] logged in with entity id 307484 at (149.5, 70.0999984741211, -53.5)
+[05:03:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Bastian_BOSTERO joined the game
