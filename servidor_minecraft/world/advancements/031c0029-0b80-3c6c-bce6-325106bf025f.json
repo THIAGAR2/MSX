@@ -1656,6 +1656,12 @@
     },
     "done": true
   },
+  "cfm:appliance_city": {
+    "criteria": {
+      "place_appliance": "2024-12-11 05:55:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lapis_block": {
     "criteria": {
       "has_at_least_9_lapis": "2024-12-08 21:25:37 +0000"
