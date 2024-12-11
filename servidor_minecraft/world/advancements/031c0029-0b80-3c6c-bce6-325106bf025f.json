@@ -326,6 +326,12 @@
     },
     "done": true
   },
+  "cfm:minekea": {
+    "criteria": {
+      "get_chair_or_table": "2024-12-11 05:44:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cake": {
     "criteria": {
       "has_egg": "2024-10-26 13:55:35 +0000"

@@ -371,3 +371,4 @@ com.google.gson.JsonSyntaxException: Unknown recipe 'minecraft:trapdoor'
 [05:03:19] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
 [05:03:19] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Bastian_BOSTERO[/100.73.109.128:2305] logged in with entity id 307484 at (149.5, 70.0999984741211, -53.5)
 [05:03:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Bastian_BOSTERO joined the game
+[05:44:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: THIAGAR7 has made the advancement [MineKea]
