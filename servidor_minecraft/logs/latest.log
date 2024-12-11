@@ -288,3 +288,7 @@ com.google.gson.JsonSyntaxException: Unknown recipe 'minecraft:trapdoor'
 [03:04:08] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Bastian_BOSTERO[/100.73.109.128:1378] logged in with entity id 137191 at (157.20696410126715, 64.0, 5.309624922889155)
 [03:04:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Bastian_BOSTERO joined the game
 [03:07:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [THIAGAR7: Teleported THIAGAR7 to Bastian_BOSTERO]
+[03:12:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [THIAGAR7: Teleported Bastian_BOSTERO to THIAGAR7]
+[03:14:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Bastian_BOSTERO is bleeding...
+[03:18:11] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Bastian_BOSTERO lost connection: Disconnected
+[03:18:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Bastian_BOSTERO left the game

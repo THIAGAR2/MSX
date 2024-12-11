@@ -8204,3 +8204,20 @@ com.google.gson.JsonSyntaxException: Unknown recipe 'minecraft:trapdoor'
 [03:09:49] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [03:10:34] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [03:11:19] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:12:04] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:12:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [THIAGAR7: Teleported Bastian_BOSTERO to THIAGAR7]
+[03:12:49] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:13:34] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:14:19] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:14:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Bastian_BOSTERO is bleeding...
+[03:15:04] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:15:49] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:16:34] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:17:19] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:18:04] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:18:11] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Bastian_BOSTERO lost connection: Disconnected
+[03:18:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Bastian_BOSTERO left the game
+[03:18:49] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:19:34] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:20:19] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:21:04] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
