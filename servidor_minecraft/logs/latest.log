@@ -255,3 +255,20 @@ com.google.gson.JsonSyntaxException: Unknown recipe 'minecraft:trapdoor'
 [02:02:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Bastian_BOSTERO is bleeding...
 [02:02:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [THIAGAR7: Teleported Bastian_BOSTERO to THIAGAR7]
 [02:02:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [THIAGAR7: Teleported THIAGAR7 to Bastian_BOSTERO]
+[02:13:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Bastian_BOSTERO has made the advancement [Best Friends Forever]
+[02:14:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [THIAGAR7: Teleported THIAGAR7 to Bastian_BOSTERO]
+[02:14:51] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: THIAGAR7 was kicked for floating too long!
+[02:14:51] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: THIAGAR7 lost connection: Flying is not enabled on this server
+[02:14:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: THIAGAR7 left the game
+[02:14:55] [Netty Epoll Server IO #0/INFO] [FML]: Client protocol version 2
+[02:14:55] [Netty Epoll Server IO #0/INFO] [FML]: Client attempting to join with 16 mods : minecraft@1.12.2,usefulbackpacks@1.5.1.35,FML@8.0.99.99,forgelin@1.8.4,uteamcore@2.2.5.147,creativecoredummy@1.0.0,cfm@5.3.1,creativecore@1.10.0,jei@4.15.0.268,futuremc@0.2.6,forge@14.23.5.2860,playerrevive@1.0,mcp@9.42,lumberjack@1.4.1,journeymap@1.12.2-5.7.1,torcherino@7.6
+[02:14:55] [Netty Epoll Server IO #0/INFO] [journeymap]: CLIENT
+[02:14:56] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[02:14:56] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: THIAGAR7[/100.126.202.15:50103] logged in with entity id 63666 at (127.8110926520898, 67.8500000178814, 103.59792597946672)
+[02:14:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: THIAGAR7 joined the game
+[02:16:25] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Horse moved wrongly!
+[02:16:25] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Horse moved wrongly!
+[02:16:25] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Horse moved wrongly!
+[02:16:25] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Horse moved wrongly!
+[02:16:25] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Horse moved wrongly!
+[02:17:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Bastian_BOSTERO is bleeding...
