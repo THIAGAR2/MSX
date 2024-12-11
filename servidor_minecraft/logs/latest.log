@@ -272,3 +272,6 @@ com.google.gson.JsonSyntaxException: Unknown recipe 'minecraft:trapdoor'
 [02:16:25] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Horse moved wrongly!
 [02:16:25] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Horse moved wrongly!
 [02:17:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Bastian_BOSTERO is bleeding...
+[02:49:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [THIAGAR7: Set own game mode to Creative Mode]
+[02:49:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [THIAGAR7: Set own game mode to Survival Mode]
+[02:50:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Bastian_BOSTERO is bleeding...
