@@ -8229,3 +8229,44 @@ io.netty.channel.unix.Errors$NativeIoException: syscall:read(..) failed: Connect
 [23:14:44] [Server thread/DEBUG] [FML]: The world 6fbe68d (world) may have leaked: seen 10 times.
 
 [23:14:49] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:15:34] [Server thread/DEBUG] [FML]: The world 6fbe68d (world) may have leaked: seen 15 times.
+
+[23:15:34] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:16:19] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:16:24] [Server thread/DEBUG] [FML]: The world 6fbe68d (world) may have leaked: seen 20 times.
+
+[23:17:04] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:17:14] [Server thread/DEBUG] [FML]: The world 6fbe68d (world) may have leaked: seen 25 times.
+
+[23:17:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [THIAGAR7: Teleported THIAGAR7 to Bastian_BOSTERO]
+[23:17:49] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:18:04] [Server thread/DEBUG] [FML]: The world 6fbe68d (world) may have leaked: seen 30 times.
+
+[23:18:34] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:18:54] [Server thread/DEBUG] [FML]: The world 6fbe68d (world) may have leaked: seen 35 times.
+
+[23:19:19] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:19:44] [Server thread/DEBUG] [FML]: The world 6fbe68d (world) may have leaked: seen 40 times.
+
+[23:20:04] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:20:34] [Server thread/DEBUG] [FML]: The world 6fbe68d (world) may have leaked: seen 45 times.
+
+[23:20:49] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:21:24] [Server thread/DEBUG] [FML]: The world 6fbe68d (world) may have leaked: seen 50 times.
+
+[23:21:34] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:22:14] [Server thread/DEBUG] [FML]: The world 6fbe68d (world) may have leaked: seen 55 times.
+
+[23:22:19] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:22:39] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Bastian_BOSTERO lost connection: Timed out
+[23:22:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Bastian_BOSTERO left the game
+[23:23:04] [Server thread/DEBUG] [FML]: The world 6fbe68d (world) may have leaked: seen 60 times.
+
+[23:23:04] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:23:49] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:23:54] [Server thread/DEBUG] [FML]: The world 6fbe68d (world) may have leaked: seen 65 times.
+
+[23:24:34] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:24:44] [Server thread/DEBUG] [FML]: The world 6fbe68d (world) may have leaked: seen 70 times.
+
+[23:25:19] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
