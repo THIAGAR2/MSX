@@ -83,6 +83,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/furnace_minecart": {
+    "criteria": {
+      "has_minecart": "2025-01-25 22:24:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_pickaxe": {
     "criteria": {
       "has_iron_ingot": "2024-12-08 21:34:27 +0000"
@@ -188,6 +194,12 @@
   "minecraft:story/shiny_gear": {
     "criteria": {
       "diamond_boots": "2024-12-10 04:05:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/hopper_minecart": {
+    "criteria": {
+      "has_minecart": "2025-01-25 22:24:38 +0000"
     },
     "done": true
   },
@@ -584,6 +596,12 @@
   "minecraft:recipes/brewing/cauldron": {
     "criteria": {
       "has_water_bucket": "2024-12-11 03:39:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/chest_minecart": {
+    "criteria": {
+      "has_minecart": "2025-01-25 22:24:38 +0000"
     },
     "done": true
   },
@@ -1660,6 +1678,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/tnt_minecart": {
+    "criteria": {
+      "has_minecart": "2025-01-25 22:24:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/piston": {
     "criteria": {
       "has_redstone": "2024-12-08 21:36:19 +0000"
@@ -1681,6 +1705,12 @@
   "cfm:root": {
     "criteria": {
       "tick": "2024-10-26 13:00:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/rail": {
+    "criteria": {
+      "has_minecart": "2025-01-25 22:24:38 +0000"
     },
     "done": true
   },
