@@ -256,3 +256,41 @@ com.google.gson.JsonSyntaxException: Unknown recipe 'minecraft:trapdoor'
 [23:02:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Bastian_BOSTERO> hace tp
 [23:02:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Bastian_BOSTERO> estoy re lejos
 [23:02:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [THIAGAR7: Teleported Bastian_BOSTERO to THIAGAR7]
+[23:12:48] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@27c23ce8)
+[23:12:48] [Server thread/WARN] [FML]: Future MC loaded a new chunk [-9, -9] in dimension -1 (the_nether) while populating chunk [-8, -8], causing cascading worldgen lag.
+[23:12:48] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:12:48] [Server thread/WARN] [FML]: Future MC loaded a new chunk [-9, -10] in dimension -1 (the_nether) while populating chunk [-9, -9], causing cascading worldgen lag.
+[23:12:48] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:12:48] [Server thread/WARN] [FML]: Future MC loaded a new chunk [-9, -6] in dimension -1 (the_nether) while populating chunk [-8, -5], causing cascading worldgen lag.
+[23:12:48] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:12:48] [Server thread/WARN] [FML]: Future MC loaded a new chunk [-9, -7] in dimension -1 (the_nether) while populating chunk [-9, -6], causing cascading worldgen lag.
+[23:12:48] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:12:48] [Server thread/WARN] [FML]: Future MC loaded a new chunk [-10, -7] in dimension -1 (the_nether) while populating chunk [-9, -7], causing cascading worldgen lag.
+[23:12:48] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:12:48] [Server thread/WARN] [FML]: Future MC loaded a new chunk [-10, -8] in dimension -1 (the_nether) while populating chunk [-10, -7], causing cascading worldgen lag.
+[23:12:48] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:12:48] [Server thread/WARN] [FML]: Future MC loaded a new chunk [-10, -9] in dimension -1 (the_nether) while populating chunk [-10, -7], causing cascading worldgen lag.
+[23:12:48] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:12:48] [Server thread/WARN] [FML]: Future MC loaded a new chunk [-11, -9] in dimension -1 (the_nether) while populating chunk [-10, -9], causing cascading worldgen lag.
+[23:12:48] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:12:48] [Server thread/WARN] [FML]: Future MC loaded a new chunk [-10, -10] in dimension -1 (the_nether) while populating chunk [-10, -9], causing cascading worldgen lag.
+[23:12:48] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:12:48] [Server thread/WARN] [FML]: Future MC loaded a new chunk [-11, -10] in dimension -1 (the_nether) while populating chunk [-10, -10], causing cascading worldgen lag.
+[23:12:48] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:12:48] [Server thread/WARN] [FML]: Future MC loaded a new chunk [-12, -10] in dimension -1 (the_nether) while populating chunk [-11, -10], causing cascading worldgen lag.
+[23:12:48] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:12:48] [Server thread/WARN] [FML]: Future MC loaded a new chunk [-9, -8] in dimension -1 (the_nether) while populating chunk [-9, -6], causing cascading worldgen lag.
+[23:12:48] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:12:49] [Server thread/WARN] [FML]: Future MC loaded a new chunk [-8, -10] in dimension -1 (the_nether) while populating chunk [-7, -9], causing cascading worldgen lag.
+[23:12:49] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:12:49] [Server thread/WARN] [FML]: Future MC loaded a new chunk [-9, -11] in dimension -1 (the_nether) while populating chunk [-8, -10], causing cascading worldgen lag.
+[23:12:49] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:12:49] [Server thread/WARN] [FML]: Future MC loaded a new chunk [-10, -11] in dimension -1 (the_nether) while populating chunk [-9, -11], causing cascading worldgen lag.
+[23:12:49] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:12:49] [Server thread/WARN] [FML]: Future MC loaded a new chunk [-11, -11] in dimension -1 (the_nether) while populating chunk [-9, -11], causing cascading worldgen lag.
+[23:12:49] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:12:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Bastian_BOSTERO has made the advancement [We Need to Go Deeper]
+[23:12:52] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 3901ms behind, skipping 78 tick(s)
+[23:12:53] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Bastian_BOSTERO moved too quickly! -123.0,14.0,25.80000001192093
+[23:13:06] [Server thread/INFO] [FML]: Unloading dimension -1
+[23:13:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [THIAGAR7: Teleported Bastian_BOSTERO to THIAGAR7]

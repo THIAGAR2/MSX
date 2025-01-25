@@ -8061,3 +8061,171 @@ io.netty.channel.unix.Errors$NativeIoException: syscall:read(..) failed: Connect
 [23:03:32] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [23:04:17] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [23:05:02] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:05:47] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:06:32] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:07:17] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:08:02] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:08:47] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:09:32] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:10:17] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:11:02] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:11:47] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:12:32] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:12:48] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@27c23ce8)
+[23:12:48] [Server thread/WARN] [FML]: Future MC loaded a new chunk [-9, -9] in dimension -1 (the_nether) while populating chunk [-8, -8], causing cascading worldgen lag.
+[23:12:48] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:12:48] [Server thread/WARN] [FML]: Future MC loaded a new chunk [-9, -10] in dimension -1 (the_nether) while populating chunk [-9, -9], causing cascading worldgen lag.
+[23:12:48] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:12:48] [Server thread/WARN] [FML]: Future MC loaded a new chunk [-9, -6] in dimension -1 (the_nether) while populating chunk [-8, -5], causing cascading worldgen lag.
+[23:12:48] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:12:48] [Server thread/WARN] [FML]: Future MC loaded a new chunk [-9, -7] in dimension -1 (the_nether) while populating chunk [-9, -6], causing cascading worldgen lag.
+[23:12:48] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:12:48] [Server thread/WARN] [FML]: Future MC loaded a new chunk [-10, -7] in dimension -1 (the_nether) while populating chunk [-9, -7], causing cascading worldgen lag.
+[23:12:48] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:12:48] [Server thread/WARN] [FML]: Future MC loaded a new chunk [-10, -8] in dimension -1 (the_nether) while populating chunk [-10, -7], causing cascading worldgen lag.
+[23:12:48] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:12:48] [Server thread/WARN] [FML]: Future MC loaded a new chunk [-10, -9] in dimension -1 (the_nether) while populating chunk [-10, -7], causing cascading worldgen lag.
+[23:12:48] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:12:48] [Server thread/WARN] [FML]: Future MC loaded a new chunk [-11, -9] in dimension -1 (the_nether) while populating chunk [-10, -9], causing cascading worldgen lag.
+[23:12:48] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:12:48] [Server thread/WARN] [FML]: Future MC loaded a new chunk [-10, -10] in dimension -1 (the_nether) while populating chunk [-10, -9], causing cascading worldgen lag.
+[23:12:48] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:12:48] [Server thread/WARN] [FML]: Future MC loaded a new chunk [-11, -10] in dimension -1 (the_nether) while populating chunk [-10, -10], causing cascading worldgen lag.
+[23:12:48] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:12:48] [Server thread/WARN] [FML]: Future MC loaded a new chunk [-12, -10] in dimension -1 (the_nether) while populating chunk [-11, -10], causing cascading worldgen lag.
+[23:12:48] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:12:48] [Server thread/WARN] [FML]: Future MC loaded a new chunk [-9, -8] in dimension -1 (the_nether) while populating chunk [-9, -6], causing cascading worldgen lag.
+[23:12:48] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:12:49] [Server thread/WARN] [FML]: Future MC loaded a new chunk [-8, -10] in dimension -1 (the_nether) while populating chunk [-7, -9], causing cascading worldgen lag.
+[23:12:49] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:12:49] [Server thread/WARN] [FML]: Future MC loaded a new chunk [-9, -11] in dimension -1 (the_nether) while populating chunk [-8, -10], causing cascading worldgen lag.
+[23:12:49] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:12:49] [Server thread/WARN] [FML]: Future MC loaded a new chunk [-10, -11] in dimension -1 (the_nether) while populating chunk [-9, -11], causing cascading worldgen lag.
+[23:12:49] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:12:49] [Server thread/WARN] [FML]: Future MC loaded a new chunk [-11, -11] in dimension -1 (the_nether) while populating chunk [-9, -11], causing cascading worldgen lag.
+[23:12:49] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:12:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Bastian_BOSTERO has made the advancement [We Need to Go Deeper]
+[23:12:52] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 3901ms behind, skipping 78 tick(s)
+[23:12:52] [Server thread/DEBUG] [FML]: Minecraft loaded a new chunk [-12, -9] in dimension -1 (the_nether) while populating chunk [-11, -8], causing cascading worldgen lag.
+[23:12:52] [Server thread/DEBUG] [FML]: Consider setting 'fixVanillaCascading' to 'true' in the Forge config to fix many cases where this occurs in the base game.
+[23:12:52] [Server thread/DEBUG] [FML]: Minecraft loaded a new chunk [-12, -8] in dimension -1 (the_nether) while populating chunk [-11, -7], causing cascading worldgen lag.
+[23:12:52] [Server thread/DEBUG] [FML]: Consider setting 'fixVanillaCascading' to 'true' in the Forge config to fix many cases where this occurs in the base game.
+[23:12:52] [Server thread/DEBUG] [FML]: Minecraft loaded a new chunk [-13, -9] in dimension -1 (the_nether) while populating chunk [-12, -8], causing cascading worldgen lag.
+[23:12:52] [Server thread/DEBUG] [FML]: Consider setting 'fixVanillaCascading' to 'true' in the Forge config to fix many cases where this occurs in the base game.
+[23:12:52] [Server thread/DEBUG] [FML]: Minecraft loaded a new chunk [-13, -10] in dimension -1 (the_nether) while populating chunk [-13, -9], causing cascading worldgen lag.
+[23:12:52] [Server thread/DEBUG] [FML]: Consider setting 'fixVanillaCascading' to 'true' in the Forge config to fix many cases where this occurs in the base game.
+[23:12:52] [Server thread/DEBUG] [FML]: Minecraft loaded a new chunk [-14, -10] in dimension -1 (the_nether) while populating chunk [-13, -9], causing cascading worldgen lag.
+[23:12:52] [Server thread/DEBUG] [FML]: Consider setting 'fixVanillaCascading' to 'true' in the Forge config to fix many cases where this occurs in the base game.
+[23:12:52] [Server thread/DEBUG] [FML]: Minecraft loaded a new chunk [-14, -11] in dimension -1 (the_nether) while populating chunk [-14, -10], causing cascading worldgen lag.
+[23:12:52] [Server thread/DEBUG] [FML]: Consider setting 'fixVanillaCascading' to 'true' in the Forge config to fix many cases where this occurs in the base game.
+[23:12:52] [Server thread/DEBUG] [FML]: Minecraft loaded a new chunk [-9, 2] in dimension -1 (the_nether) while populating chunk [-9, 3], causing cascading worldgen lag.
+[23:12:52] [Server thread/DEBUG] [FML]: Consider setting 'fixVanillaCascading' to 'true' in the Forge config to fix many cases where this occurs in the base game.
+[23:12:52] [Server thread/DEBUG] [FML]: Minecraft loaded a new chunk [-11, -5] in dimension -1 (the_nether) while populating chunk [-10, -5], causing cascading worldgen lag.
+[23:12:52] [Server thread/DEBUG] [FML]: Consider setting 'fixVanillaCascading' to 'true' in the Forge config to fix many cases where this occurs in the base game.
+[23:12:52] [Server thread/DEBUG] [FML]: Minecraft loaded a new chunk [-11, -6] in dimension -1 (the_nether) while populating chunk [-10, -5], causing cascading worldgen lag.
+[23:12:52] [Server thread/DEBUG] [FML]: Consider setting 'fixVanillaCascading' to 'true' in the Forge config to fix many cases where this occurs in the base game.
+[23:12:52] [Server thread/DEBUG] [FML]: Minecraft loaded a new chunk [-12, -7] in dimension -1 (the_nether) while populating chunk [-11, -6], causing cascading worldgen lag.
+[23:12:52] [Server thread/DEBUG] [FML]: Consider setting 'fixVanillaCascading' to 'true' in the Forge config to fix many cases where this occurs in the base game.
+[23:12:52] [Server thread/DEBUG] [FML]: Minecraft loaded a new chunk [-13, -8] in dimension -1 (the_nether) while populating chunk [-12, -7], causing cascading worldgen lag.
+[23:12:52] [Server thread/DEBUG] [FML]: Consider setting 'fixVanillaCascading' to 'true' in the Forge config to fix many cases where this occurs in the base game.
+[23:12:52] [Server thread/DEBUG] [FML]: Minecraft loaded a new chunk [-10, 0] in dimension -1 (the_nether) while populating chunk [-9, 1], causing cascading worldgen lag.
+[23:12:52] [Server thread/DEBUG] [FML]: Consider setting 'fixVanillaCascading' to 'true' in the Forge config to fix many cases where this occurs in the base game.
+[23:12:52] [Server thread/DEBUG] [FML]: Minecraft loaded a new chunk [-7, -11] in dimension -1 (the_nether) while populating chunk [-6, -10], causing cascading worldgen lag.
+[23:12:52] [Server thread/DEBUG] [FML]: Consider setting 'fixVanillaCascading' to 'true' in the Forge config to fix many cases where this occurs in the base game.
+[23:12:52] [Server thread/DEBUG] [FML]: Minecraft loaded a new chunk [-8, -12] in dimension -1 (the_nether) while populating chunk [-7, -11], causing cascading worldgen lag.
+[23:12:52] [Server thread/DEBUG] [FML]: Consider setting 'fixVanillaCascading' to 'true' in the Forge config to fix many cases where this occurs in the base game.
+[23:12:52] [Server thread/DEBUG] [FML]: Minecraft loaded a new chunk [-9, -13] in dimension -1 (the_nether) while populating chunk [-8, -12], causing cascading worldgen lag.
+[23:12:52] [Server thread/DEBUG] [FML]: Consider setting 'fixVanillaCascading' to 'true' in the Forge config to fix many cases where this occurs in the base game.
+[23:12:52] [Server thread/DEBUG] [FML]: Minecraft loaded a new chunk [-7, -12] in dimension -1 (the_nether) while populating chunk [-6, -11], causing cascading worldgen lag.
+[23:12:52] [Server thread/DEBUG] [FML]: Consider setting 'fixVanillaCascading' to 'true' in the Forge config to fix many cases where this occurs in the base game.
+[23:12:53] [Server thread/DEBUG] [FML]: Minecraft loaded a new chunk [8, -6] in dimension -1 (the_nether) while populating chunk [9, -5], causing cascading worldgen lag.
+[23:12:53] [Server thread/DEBUG] [FML]: Consider setting 'fixVanillaCascading' to 'true' in the Forge config to fix many cases where this occurs in the base game.
+[23:12:53] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Bastian_BOSTERO moved too quickly! -123.0,14.0,25.80000001192093
+[23:12:53] [Server thread/DEBUG] [FML]: Minecraft loaded a new chunk [8, -9] in dimension -1 (the_nether) while populating chunk [9, -8], causing cascading worldgen lag.
+[23:12:53] [Server thread/DEBUG] [FML]: Consider setting 'fixVanillaCascading' to 'true' in the Forge config to fix many cases where this occurs in the base game.
+[23:12:53] [Server thread/DEBUG] [FML]: Minecraft loaded a new chunk [8, -10] in dimension -1 (the_nether) while populating chunk [9, -9], causing cascading worldgen lag.
+[23:12:53] [Server thread/DEBUG] [FML]: Consider setting 'fixVanillaCascading' to 'true' in the Forge config to fix many cases where this occurs in the base game.
+[23:12:53] [Server thread/DEBUG] [FML]: Minecraft loaded a new chunk [5, -11] in dimension -1 (the_nether) while populating chunk [6, -11], causing cascading worldgen lag.
+[23:12:53] [Server thread/DEBUG] [FML]: Consider setting 'fixVanillaCascading' to 'true' in the Forge config to fix many cases where this occurs in the base game.
+[23:12:53] [Server thread/DEBUG] [FML]: Minecraft loaded a new chunk [6, -13] in dimension -1 (the_nether) while populating chunk [7, -12], causing cascading worldgen lag.
+[23:12:53] [Server thread/DEBUG] [FML]: Consider setting 'fixVanillaCascading' to 'true' in the Forge config to fix many cases where this occurs in the base game.
+[23:12:54] [Server thread/DEBUG] [FML]: Minecraft loaded a new chunk [-1, -11] in dimension -1 (the_nether) while populating chunk [0, -11], causing cascading worldgen lag.
+[23:12:54] [Server thread/DEBUG] [FML]: Consider setting 'fixVanillaCascading' to 'true' in the Forge config to fix many cases where this occurs in the base game.
+[23:12:54] [Server thread/DEBUG] [FML]: Minecraft loaded a new chunk [-2, -11] in dimension -1 (the_nether) while populating chunk [0, -11], causing cascading worldgen lag.
+[23:12:54] [Server thread/DEBUG] [FML]: Consider setting 'fixVanillaCascading' to 'true' in the Forge config to fix many cases where this occurs in the base game.
+[23:12:54] [Server thread/DEBUG] [FML]: Minecraft loaded a new chunk [1, -13] in dimension -1 (the_nether) while populating chunk [1, -12], causing cascading worldgen lag.
+[23:12:54] [Server thread/DEBUG] [FML]: Consider setting 'fixVanillaCascading' to 'true' in the Forge config to fix many cases where this occurs in the base game.
+[23:12:54] [Server thread/DEBUG] [FML]: Minecraft loaded a new chunk [0, -13] in dimension -1 (the_nether) while populating chunk [1, -13], causing cascading worldgen lag.
+[23:12:54] [Server thread/DEBUG] [FML]: Consider setting 'fixVanillaCascading' to 'true' in the Forge config to fix many cases where this occurs in the base game.
+[23:12:54] [Server thread/DEBUG] [FML]: Minecraft loaded a new chunk [-3, -12] in dimension -1 (the_nether) while populating chunk [-2, -12], causing cascading worldgen lag.
+[23:12:54] [Server thread/DEBUG] [FML]: Consider setting 'fixVanillaCascading' to 'true' in the Forge config to fix many cases where this occurs in the base game.
+[23:12:54] [Server thread/DEBUG] [FML]: Minecraft loaded a new chunk [-3, -13] in dimension -1 (the_nether) while populating chunk [-2, -12], causing cascading worldgen lag.
+[23:12:54] [Server thread/DEBUG] [FML]: Consider setting 'fixVanillaCascading' to 'true' in the Forge config to fix many cases where this occurs in the base game.
+[23:12:54] [Server thread/DEBUG] [FML]: Minecraft loaded a new chunk [-4, -12] in dimension -1 (the_nether) while populating chunk [-4, -11], causing cascading worldgen lag.
+[23:12:54] [Server thread/DEBUG] [FML]: Consider setting 'fixVanillaCascading' to 'true' in the Forge config to fix many cases where this occurs in the base game.
+[23:12:54] [Server thread/DEBUG] [FML]: Minecraft loaded a new chunk [-5, -12] in dimension -1 (the_nether) while populating chunk [-5, -11], causing cascading worldgen lag.
+[23:12:54] [Server thread/DEBUG] [FML]: Consider setting 'fixVanillaCascading' to 'true' in the Forge config to fix many cases where this occurs in the base game.
+[23:12:54] [Server thread/DEBUG] [FML]: Minecraft loaded a new chunk [-6, -12] in dimension -1 (the_nether) while populating chunk [-5, -11], causing cascading worldgen lag.
+[23:12:54] [Server thread/DEBUG] [FML]: Consider setting 'fixVanillaCascading' to 'true' in the Forge config to fix many cases where this occurs in the base game.
+[23:12:54] [Server thread/DEBUG] [FML]: Minecraft loaded a new chunk [-6, -13] in dimension -1 (the_nether) while populating chunk [-6, -12], causing cascading worldgen lag.
+[23:12:54] [Server thread/DEBUG] [FML]: Consider setting 'fixVanillaCascading' to 'true' in the Forge config to fix many cases where this occurs in the base game.
+[23:12:54] [Server thread/DEBUG] [FML]: Minecraft loaded a new chunk [-5, 7] in dimension -1 (the_nether) while populating chunk [-4, 8], causing cascading worldgen lag.
+[23:12:54] [Server thread/DEBUG] [FML]: Consider setting 'fixVanillaCascading' to 'true' in the Forge config to fix many cases where this occurs in the base game.
+[23:12:54] [Server thread/DEBUG] [FML]: Minecraft loaded a new chunk [-12, -1] in dimension -1 (the_nether) while populating chunk [-11, 0], causing cascading worldgen lag.
+[23:12:54] [Server thread/DEBUG] [FML]: Consider setting 'fixVanillaCascading' to 'true' in the Forge config to fix many cases where this occurs in the base game.
+[23:12:54] [Server thread/DEBUG] [FML]: Minecraft loaded a new chunk [-12, -2] in dimension -1 (the_nether) while populating chunk [-12, -1], causing cascading worldgen lag.
+[23:12:54] [Server thread/DEBUG] [FML]: Consider setting 'fixVanillaCascading' to 'true' in the Forge config to fix many cases where this occurs in the base game.
+[23:12:54] [Server thread/DEBUG] [FML]: Minecraft loaded a new chunk [-12, -3] in dimension -1 (the_nether) while populating chunk [-12, -1], causing cascading worldgen lag.
+[23:12:54] [Server thread/DEBUG] [FML]: Consider setting 'fixVanillaCascading' to 'true' in the Forge config to fix many cases where this occurs in the base game.
+[23:12:54] [Server thread/DEBUG] [FML]: Minecraft loaded a new chunk [-12, -4] in dimension -1 (the_nether) while populating chunk [-12, -3], causing cascading worldgen lag.
+[23:12:54] [Server thread/DEBUG] [FML]: Consider setting 'fixVanillaCascading' to 'true' in the Forge config to fix many cases where this occurs in the base game.
+[23:12:54] [Server thread/DEBUG] [FML]: Minecraft loaded a new chunk [-12, -5] in dimension -1 (the_nether) while populating chunk [-12, -4], causing cascading worldgen lag.
+[23:12:54] [Server thread/DEBUG] [FML]: Consider setting 'fixVanillaCascading' to 'true' in the Forge config to fix many cases where this occurs in the base game.
+[23:12:54] [Server thread/DEBUG] [FML]: Minecraft loaded a new chunk [-12, -6] in dimension -1 (the_nether) while populating chunk [-12, -4], causing cascading worldgen lag.
+[23:12:54] [Server thread/DEBUG] [FML]: Consider setting 'fixVanillaCascading' to 'true' in the Forge config to fix many cases where this occurs in the base game.
+[23:12:54] [Server thread/DEBUG] [FML]: Minecraft loaded a new chunk [-13, -6] in dimension -1 (the_nether) while populating chunk [-12, -6], causing cascading worldgen lag.
+[23:12:54] [Server thread/DEBUG] [FML]: Consider setting 'fixVanillaCascading' to 'true' in the Forge config to fix many cases where this occurs in the base game.
+[23:12:54] [Server thread/DEBUG] [FML]: Minecraft loaded a new chunk [-13, -7] in dimension -1 (the_nether) while populating chunk [-12, -6], causing cascading worldgen lag.
+[23:12:54] [Server thread/DEBUG] [FML]: Consider setting 'fixVanillaCascading' to 'true' in the Forge config to fix many cases where this occurs in the base game.
+[23:12:54] [Server thread/DEBUG] [FML]: Minecraft loaded a new chunk [-13, -5] in dimension -1 (the_nether) while populating chunk [-12, -4], causing cascading worldgen lag.
+[23:12:54] [Server thread/DEBUG] [FML]: Consider setting 'fixVanillaCascading' to 'true' in the Forge config to fix many cases where this occurs in the base game.
+[23:12:54] [Server thread/DEBUG] [FML]: Minecraft loaded a new chunk [-13, -4] in dimension -1 (the_nether) while populating chunk [-12, -3], causing cascading worldgen lag.
+[23:12:54] [Server thread/DEBUG] [FML]: Consider setting 'fixVanillaCascading' to 'true' in the Forge config to fix many cases where this occurs in the base game.
+[23:12:55] [Server thread/DEBUG] [FML]: Minecraft loaded a new chunk [-9, 7] in dimension -1 (the_nether) while populating chunk [-8, 8], causing cascading worldgen lag.
+[23:12:55] [Server thread/DEBUG] [FML]: Consider setting 'fixVanillaCascading' to 'true' in the Forge config to fix many cases where this occurs in the base game.
+[23:12:55] [Server thread/DEBUG] [FML]: Minecraft loaded a new chunk [-12, 2] in dimension -1 (the_nether) while populating chunk [-11, 2], causing cascading worldgen lag.
+[23:12:55] [Server thread/DEBUG] [FML]: Consider setting 'fixVanillaCascading' to 'true' in the Forge config to fix many cases where this occurs in the base game.
+[23:12:55] [Server thread/DEBUG] [FML]: Minecraft loaded a new chunk [-12, 1] in dimension -1 (the_nether) while populating chunk [-12, 2], causing cascading worldgen lag.
+[23:12:55] [Server thread/DEBUG] [FML]: Consider setting 'fixVanillaCascading' to 'true' in the Forge config to fix many cases where this occurs in the base game.
+[23:12:55] [Server thread/DEBUG] [FML]: Minecraft loaded a new chunk [-12, 0] in dimension -1 (the_nether) while populating chunk [-12, 2], causing cascading worldgen lag.
+[23:12:55] [Server thread/DEBUG] [FML]: Consider setting 'fixVanillaCascading' to 'true' in the Forge config to fix many cases where this occurs in the base game.
+[23:12:55] [Server thread/DEBUG] [FML]: Minecraft loaded a new chunk [-13, 0] in dimension -1 (the_nether) while populating chunk [-12, 0], causing cascading worldgen lag.
+[23:12:55] [Server thread/DEBUG] [FML]: Consider setting 'fixVanillaCascading' to 'true' in the Forge config to fix many cases where this occurs in the base game.
+[23:12:55] [Server thread/DEBUG] [FML]: Minecraft loaded a new chunk [-13, -1] in dimension -1 (the_nether) while populating chunk [-12, 0], causing cascading worldgen lag.
+[23:12:55] [Server thread/DEBUG] [FML]: Consider setting 'fixVanillaCascading' to 'true' in the Forge config to fix many cases where this occurs in the base game.
+[23:12:55] [Server thread/DEBUG] [FML]: Minecraft loaded a new chunk [-13, -2] in dimension -1 (the_nether) while populating chunk [-13, -1], causing cascading worldgen lag.
+[23:12:55] [Server thread/DEBUG] [FML]: Consider setting 'fixVanillaCascading' to 'true' in the Forge config to fix many cases where this occurs in the base game.
+[23:12:55] [Server thread/DEBUG] [FML]: Minecraft loaded a new chunk [-14, -2] in dimension -1 (the_nether) while populating chunk [-13, -2], causing cascading worldgen lag.
+[23:12:55] [Server thread/DEBUG] [FML]: Consider setting 'fixVanillaCascading' to 'true' in the Forge config to fix many cases where this occurs in the base game.
+[23:12:55] [Server thread/DEBUG] [FML]: Minecraft loaded a new chunk [-14, -3] in dimension -1 (the_nether) while populating chunk [-14, -2], causing cascading worldgen lag.
+[23:12:55] [Server thread/DEBUG] [FML]: Consider setting 'fixVanillaCascading' to 'true' in the Forge config to fix many cases where this occurs in the base game.
+[23:12:55] [Server thread/DEBUG] [FML]: Minecraft loaded a new chunk [-14, -4] in dimension -1 (the_nether) while populating chunk [-14, -2], causing cascading worldgen lag.
+[23:12:55] [Server thread/DEBUG] [FML]: Consider setting 'fixVanillaCascading' to 'true' in the Forge config to fix many cases where this occurs in the base game.
+[23:12:55] [Server thread/DEBUG] [FML]: Minecraft loaded a new chunk [-13, -3] in dimension -1 (the_nether) while populating chunk [-13, -1], causing cascading worldgen lag.
+[23:12:55] [Server thread/DEBUG] [FML]: Consider setting 'fixVanillaCascading' to 'true' in the Forge config to fix many cases where this occurs in the base game.
+[23:12:55] [Server thread/DEBUG] [FML]: Minecraft loaded a new chunk [-12, 5] in dimension -1 (the_nether) while populating chunk [-11, 6], causing cascading worldgen lag.
+[23:12:55] [Server thread/DEBUG] [FML]: Consider setting 'fixVanillaCascading' to 'true' in the Forge config to fix many cases where this occurs in the base game.
+[23:12:55] [Server thread/DEBUG] [FML]: Minecraft loaded a new chunk [-12, 6] in dimension -1 (the_nether) while populating chunk [-11, 7], causing cascading worldgen lag.
+[23:12:55] [Server thread/DEBUG] [FML]: Consider setting 'fixVanillaCascading' to 'true' in the Forge config to fix many cases where this occurs in the base game.
+[23:12:55] [Server thread/DEBUG] [FML]: Minecraft loaded a new chunk [-12, 7] in dimension -1 (the_nether) while populating chunk [-11, 8], causing cascading worldgen lag.
+[23:12:55] [Server thread/DEBUG] [FML]: Consider setting 'fixVanillaCascading' to 'true' in the Forge config to fix many cases where this occurs in the base game.
+[23:13:05] [Server thread/DEBUG] [FML]: Queueing dimension -1 to unload
+[23:13:06] [Server thread/INFO] [FML]: Unloading dimension -1
+[23:13:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [THIAGAR7: Teleported Bastian_BOSTERO to THIAGAR7]
+[23:13:19] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:13:54] [Server thread/DEBUG] [FML]: The world 6fbe68d (world) may have leaked: first encounter (5 occurrences).
+
+[23:14:04] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:14:44] [Server thread/DEBUG] [FML]: The world 6fbe68d (world) may have leaked: seen 10 times.
+
+[23:14:49] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
